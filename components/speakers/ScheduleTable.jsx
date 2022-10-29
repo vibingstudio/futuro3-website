@@ -26,7 +26,7 @@ export default function ScheduleTable() {
             <div className="grid grid-cols-scheduleTable scheduleTableContainer">
               <div className="p-6 relative arrowTableColumn">
                 <span className="bg-[#0266FD] w-full h-full absolute left-0 right-0 top-0 bottom-0 z-[-10]"></span>
-                <h2 className="font-semibold text-white text-4xl scheduleTitle">PONIENTE</h2>
+                <h2 className="font-semibold text-white text-4xl scheduleTitle">PONENTE</h2>
               </div>
               <div className="p-6 relative text-center eventTile">
                 <span className="bg-[#0266FD] w-full h-full absolute left-0 right-0 top-0 bottom-0 z-[-10]"></span>

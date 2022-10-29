@@ -186,7 +186,7 @@ export const dummySpeakers = [
 export const speakers = [
   {
     id: 1,
-    name: "Marchento Perez",
+    name: "Daniel Camacho",
     image: speaker1,
     title: "La industria web3",
     titles: [
@@ -225,7 +225,7 @@ export const speakers = [
   },
   {
     id: 2,
-    name: "Marchento Perez",
+    name: "Enrique Berrueta",
     image: speaker2,
     title: "La industria web3",
     titles: ["FOUNDER AND CEO AT MICROBIT", "Socio co-fundador of wemerang"],
@@ -260,7 +260,7 @@ export const speakers = [
   },
   {
     id: 3,
-    name: "Marchento Perez",
+    name: "CESAR GAYTAN",
     image: speaker3,
     title: "La industria web3",
     titles: ["FOUNDER AND CEO AT KINDYNOS", "Socio co-fundador of bitmon"],
@@ -295,7 +295,7 @@ export const speakers = [
   },
   {
     id: 4,
-    name: "Marchento Perez",
+    name: "LUIS ENRIQUE CORREA",
     image: speaker4,
     title: "La industria web3",
     titles: ["FOUNDER AND CEO AT KINDYNOS", "Socio co-fundador of bitmon"],
@@ -330,7 +330,7 @@ export const speakers = [
   },
   {
     id: 5,
-    name: "Marchento Perez",
+    name: "LUIS ENRIQUE CORREA",
     image: speaker5,
     title: "La industria web3",
     titles: ["FOUNDER AND CEO AT KINDYNOS", "Socio co-fundador of bitmon"],
@@ -400,7 +400,7 @@ export const speakers = [
   },
   {
     id: 7,
-    name: "Marchento Perez",
+    name: "JORGE ANTONIO GALVAN",
     image: speaker7,
     title: "La industria web3",
     titles: ["FOUNDER AND CEO AT KINDYNOS", "Socio co-fundador of bitmon"],

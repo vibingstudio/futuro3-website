@@ -14,6 +14,7 @@ const Header = () => {
   const items = [
     {
       name: "Acerca de",
+      link: '/',
     },
     {
       name: "Agenda",
