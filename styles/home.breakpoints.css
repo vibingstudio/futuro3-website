@@ -1,0 +1,100 @@
+@media screen and (max-width: 1300px) {
+  .bannerContentContainer {
+    padding-left: 4%;
+  }
+  .qestionsContainer {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 1180px) {
+  .bannerDesContainer {
+    padding: 0 1rem;
+  }
+}
+
+@media screen and (max-width: 980px) {
+  .bannerDesContainer {
+    margin-left: 4%;
+  }
+  .bannerFuturo {
+    font-size: 8rem;
+  }
+  .bannerDesPri {
+    font-size: 2.5rem;
+  }
+  .bannerDesSec {
+    font-size: 0.9rem;
+  }
+}
+
+@media screen and (max-width: 770px) {
+  .bannerContentContainer {
+    padding-left: 2%;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+  }
+  .bannerThreeArrow {
+    width: 3rem;
+  }
+  .web3SectionContainer {
+    grid-template-columns: 1fr;
+  }
+  .qestionsContainer {
+    padding: 0 2rem;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .bannerFuturo {
+    font-size: 6rem;
+  }
+  .bannerDesContainer {
+    grid-template-columns: 1fr;
+  }
+  .bannerDesPri {
+    align-items: flex-start;
+  }
+  .bannerDevider {
+    display: none;
+  }
+  .techMonterrey {
+    width: 6rem;
+  }
+  .btc {
+    width: 3rem;
+  }
+  .bannerDate {
+    font-size: 0.6rem;
+    line-height: 1.2;
+  }
+}
+
+@media screen and (max-width: 650px) {
+    .bannerItemsContainer{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
+
+@media screen and (max-width: 550px) {
+  .bannerDesContainer {
+    gap: 1rem;
+  }
+  .bannerContentContainer {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+  }
+  .bannerFuturo {
+    font-size: 4.2rem;
+  }
+  .bannerThreeArrow {
+    padding-top: 2rem;
+  }
+  .questionFuturo {
+    font-size: 1.5rem;
+  }
+  .title::before {
+    left: -4.8%;
+  }
+}

@@ -1,0 +1,51 @@
+@media screen and (max-width : 1200px) {
+    .arrowTopLeft{
+        left: 15%;
+    }
+    .arrowTopRight{
+        right: 20%;
+    }
+}
+
+@media screen and (max-width : 770px) {
+    .singleSpeakerContainer{
+        grid-template-columns: 1fr;
+    }
+}
+
+@media screen and (max-width : 800px) {
+    .arrowTopLeft{
+        left: 10%;
+        width: 4.5rem;
+    }
+    .arrowTopRight{
+        right: 10%;
+        width: 5rem;
+    }
+    .arrowBottomRight{
+        right: 8%;
+        width: 4.5rem;
+    }
+    .arrowBottonLeft{
+        left: 4%;
+        width: 5rem;
+    }
+}
+
+@media screen and (max-width : 640px) {
+    .arrowTopLeft{
+        display: none;
+    }
+    .arrowTopRight{
+        right: 5%;
+        width: 3rem;
+        top: 25%;
+    }
+    .arrowBottomRight{
+        display: none;
+    }
+    .arrowBottonLeft{
+        left: 2%;
+        width: 3.5rem;
+    }
+}
