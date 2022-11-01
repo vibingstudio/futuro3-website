@@ -22,7 +22,7 @@ export default function Speaker() {
     }
   }, [speaker]);
   console.log(singleImage)
- const spImage=`/img/${singleImage}.png`
+ const spImage=`/img/${singleImage}B.png`
 
   return (
     <>
