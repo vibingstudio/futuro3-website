@@ -233,5 +233,5 @@
 
 @font-face {
   font-family: "din";
-  src: url(../assets/fonts/DIN_Condensed_Bold.ttf);
+  src: url("../assets/fonts/DIN_Condensed_Bold.ttf") format("truetype");
 }
