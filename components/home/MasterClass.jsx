@@ -14,7 +14,9 @@ export default function MasterClass() {
     <section className="bg-[#181823] w-full pb-[4rem] pt-[7.5rem] border-t-[8px] border-b-[8px] border-[#3A66F9] overflow-hidden">
       <div className="px-3">
       <div className="max-w-[100rem] m-auto grid grid-cols-2 masterContainer">
-        <div className="bg-[#AFAFCA] relative right-[-2rem]"></div>
+        <div className="bg-[#AFAFCA] relative right-[-2rem]">
+          
+        </div>
         <div className="bg-[#3A66F9] sm:p-16 p-8 font-primary text-white relative left-[-3rem] top-[-3.5rem] masterContentContainer">
           <h2 className="title titleWhite relative font-bold text-4xl py-2">
             MASTERCLASS

@@ -2,7 +2,7 @@ import Head from "next/head";
 import Image from "next/image";
 
 import threeArrow from "../assets/images/threeArrow.png";
-import techMonterrey from "../assets/images/techMonterrey.png";
+import techMonterrey from "../assets/images/tecmty.png";
 import btc from "../assets/images/btc.png";
 import { FuturoQuestions, MasterClass, Speakers } from "../components";
 import { AbsoluteWrapper, Footer } from "../components/common";
@@ -42,6 +42,7 @@ export default function Home() {
             </p>
           </div>
         </div>
+        
         <div className="flex items-center pl-[2%] c-gap-2rem pb-[3rem]">
           <span>
             <Image src={techMonterrey} alt="techMonterrey" className="techMonterrey" />
@@ -52,6 +53,11 @@ export default function Home() {
           <p className="text-white text-sm bannerDate flex flex-col">
             <span>SAN LUIS POTOSÍ, SLP</span>
             <span>2 - 3 DICIEMBRE</span>
+          </p>
+          <p className="text-white text-sm bannerDate flex flex-col">
+            <span>Parque de Emprendimiento del</span>
+            <span>Tec de Monterrey Campus San Luis Potosí.</span>
+            <span>Av. Eugenio Garza Sada 300, Lomas del Tecnologico.</span>
           </p>
         </div>
       </main>

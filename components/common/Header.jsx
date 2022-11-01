@@ -18,16 +18,17 @@ const Header = () => {
     },
     {
       name: "Agenda",
-      link: "/",
-      haveSubmenu: false,
-    },
-    {
-      name: "Speakers",
       link: "/speakers",
       haveSubmenu: false,
     },
+    // {
+    //   name: "Speakers",
+    //   link: "/speakers",
+    //   haveSubmenu: false,
+    // },
     {
-      name: "registro",
+      name: "Registro",
+      link: "https://forms.gle/wMU2yszf9BGBSPRk8",
       // haveSubmenu: true,
       // subMenu: [
       //   {
