@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Futuro 3</title>
+        <title>Futuro3</title>
         <meta name="description" content="futuro3" />
         <link rel="icon" href="/favicon.ico" />
       </Head>

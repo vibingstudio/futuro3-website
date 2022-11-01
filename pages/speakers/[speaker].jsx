@@ -24,7 +24,7 @@ export default function Speaker() {
   return (
     <>
       <Head>
-        <title>Futuro 3 | Speaker</title>
+        <title>Futuro3 | Speaker</title>
         <meta name="description" content="futuro3" />
       </Head>
       <section className="w-full">

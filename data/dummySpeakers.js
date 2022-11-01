@@ -61,7 +61,7 @@ export const dummySpeakers = [
       {
         name: "Luis Correa",
         img: speaker5,
-        title: "La industria web3",
+        title: "Bitcoin, la evolucion del dinero",
         titles: ["CTO AT VIBING.", "Blockchain Developer."],
         event:
           "<b>BITCOIN, LA EVOLUCION DEL DINERO.</b>",
@@ -79,7 +79,7 @@ export const dummySpeakers = [
       {
         name: "Daniel Camacho",
         img: speaker3,
-        title: "La industria web3",
+        title: "De bitcoin a la web3 y mas allá",
         titles: ["Chief of Crypto Operations.", "at Soluciones Blockchain Mexico"],
         event:
           "<b>COMO LLEVAR TU EMPRESA A LA WEB3.</b>",
@@ -114,7 +114,7 @@ export const dummySpeakers = [
       {
         name: "Luis Daniel Beltran",
         img: speaker1,
-        title: "La industria web3",
+        title: "Blockchain, ¿sí cambió al mundo?",
         titles: [
           "Founder of Wemerang",
         ],
@@ -143,7 +143,7 @@ export const dummySpeakers = [
       {
         name: "Enrique Berrueta",
         img: speaker2,
-        title: "La industria web3",
+        title: "WEB3, la evolución del internet",
         titles: ["CEO AT Kyndinos"],
         event:
           "<b>WEB3, LA EVOLUCIÓN DEL INTERNET</b>",
@@ -152,7 +152,7 @@ export const dummySpeakers = [
       {
         name: "Jorge Galván",
         img: speaker7,
-        title: "La industria web3",
+        title: "Gaming en web3",
         titles: ["COO AT Vibing Studios"],
         event:
           "<b>GAMING EN WEB3</b>",
@@ -173,7 +173,7 @@ export const dummySpeakers = [
         title: "La industria web3",
         titles: ["Daniel Camacho"],
         event:
-          "LA TOKENIZACION DE LAS COSAS",
+          "<b>LA TOKENIZACION DE LAS COSAS</b>",
         time: "6:30 pm - 10:00 pm",
       },
     ],
@@ -190,7 +190,7 @@ export const dummySpeakers = [
           "Daniel Camacho",
         ],
         event:
-          "CREACIÓN Y APLICACIÓN DE SMART CONTRACTS",
+          "<b>CREACIÓN Y APLICACIÓN DE SMART CONTRACTS</b>",
         time: "10:00 am - 2:00 pm",
       },
     ],
@@ -237,7 +237,7 @@ export const speakers = [
     id: 2,
     name: "Daniel Camacho",
     image: speaker3,
-    title: "La industria web3",
+    title: "De bitcoin a la web3 y mas allá",
     titles: [
       "CEO at Monterrey Bitcoin Embassy",
     ],
@@ -257,7 +257,7 @@ export const speakers = [
     id: 3,
     name: "Enrique Berrueta",
     image: speaker2,
-    title: "La industria web3",
+    title: "WEB3, la evolución del internet",
     titles: ["FOUNDER AND CEO AT MICROBIT", "Socio co-fundador of wemerang"],
     bio: `Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed
     diam nonummy nibh euismod tincidunt ut laoreet dolore magna
@@ -303,7 +303,7 @@ export const speakers = [
     id: 5,
     name: "Luis Daniel Beltran",
     image: speaker1,
-    title: "La industria web3",
+    title: "Blockchain, ¿sí cambió al mundo?",
     titles: ["Co-CEO at Wemerang", ""],
     bio: `Desde que cumplió 7 años, de manera autodidacta, aprendió a programar. Siendo pionero en el tema de Blockchain creó 
     <a href='https://pesodigital.org' target='_blank'><i style="color:blue">pesodigital.org</i></a>
@@ -321,7 +321,7 @@ export const speakers = [
     id: 6,
     name: "Luis Enrique Correa",
     image: speaker5,
-    title: "La industria web3",
+    title: "Bitcoin, la evolucion del dinero",
     titles: ["FOUNDER AND CEO AT KINDYNOS", "Socio co-fundador of bitmon"],
     bio: `Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed
     diam nonummy nibh euismod tincidunt ut laoreet dolore magna
@@ -356,7 +356,7 @@ export const speakers = [
     id: 7,
     name: "Jorge Antonio Galvan",
     image: speaker7,
-    title: "La industria web3",
+    title: "Gaming en web3",
     titles: ["CCO at Vibing Studios.", "GAMING EN WEB3"],
     bio: `Ing. En Mecatronica egresado del Tec de Monterrey. He trabajado en el desarrollo de videojuegos desde el 2017 en sus diferentes areas, 2D, 3D y realidad virtual. 
     Gurú tecnológico en ingeniería y arquitectura de juegos. <br>Defensor de la diversión, ante todo. 
@@ -366,9 +366,9 @@ export const speakers = [
   },
   {
     id: 8,
-    name: "Marchento Perez",
+    name: "Abimelek Casterezana",
     image: speaker6,
-    title: "La industria web3",
+    title: "El metaverso viene y es sensacional",
     titles: ["CTO AT VIBING.", "Blockchain Developer."],
     bio: `Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed
     diam nonummy nibh euismod tincidunt ut laoreet dolore magna

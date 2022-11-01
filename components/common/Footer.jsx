@@ -6,8 +6,11 @@ import vibingLogo from '../../assets/images/vibingLogo.png'
 import btcLogo from '../../assets/images/btcLogo.png'
 import hackerLogo from '../../assets/images/hackerLogo.png'
 import kindynos from '../../assets/images/kindynos.png'
+import circulo from '../../assets/images/circulo.png'
+import solbc from '../../assets/images/solucionesBC.png'
 
-const logos = [techMonterreyLogo , vibingLogo , btcLogo , hackerLogo , kindynos]
+
+const logos = [techMonterreyLogo , circulo, vibingLogo , btcLogo , solbc , hackerLogo , kindynos]
 
 export default function Footer() {
   return (
