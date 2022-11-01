@@ -5,6 +5,7 @@ import speaker4 from "../assets/images/speaker4.png";
 import speaker5 from "../assets/images/speaker5.png";
 import speaker6 from "../assets/images/speaker6.png";
 import speaker7 from "../assets/images/speaker7.png";
+import boogle from "../assets/images/boogle.png";
 
 export const dummySpeakers = [
   {
@@ -187,7 +188,7 @@ export const speakers = [
   {
     id: 1,
     name: "Daniel Camacho",
-    image: speaker1,
+    image: speaker3,
     title: "La industria web3",
     titles: [
       "CEO at Monterrey Bitcoin Embassy",
@@ -241,9 +242,9 @@ export const speakers = [
   },
   {
     id: 3,
-    name: "CESAR GAYTAN",
-    image: speaker3,
-    title: "DE BITCOIN A LA WEB3 Y MAS ALLA",
+    name: "Cesar Gaytan",
+    image: speaker4,
+    title: "De Bitcoin a la Web3 y mas allá",
     titles: ["Founder at Hackwise", ""],
     bio: `Cesar Gaytán es un empresario Mexicano que ha estado involucrado en el mundo cripto desde hace ya 10 años. 
     <br>Es conocido por ser uno de los primeros mineros de criptomonedas en Mexico 
@@ -252,8 +253,8 @@ export const speakers = [
   },
   {
     id: 4,
-    name: "LUIS DANIEL BELTRAN",
-    image: speaker4,
+    name: "Luis Daniel Beltran",
+    image: speaker1,
     title: "La industria web3",
     titles: ["Co-CEO at Wemerang", ""],
     bio: `Desde que cumplió 7 años, de manera autodidacta, aprendió a programar. Siendo pionero en el tema de Blockchain creó 
@@ -270,7 +271,7 @@ export const speakers = [
   },
   {
     id: 5,
-    name: "LUIS ENRIQUE CORREA",
+    name: "Luis Enrique Correa",
     image: speaker5,
     title: "La industria web3",
     titles: ["FOUNDER AND CEO AT KINDYNOS", "Socio co-fundador of bitmon"],
@@ -305,8 +306,8 @@ export const speakers = [
   },
   {
     id: 6,
-    name: "Marchento Perez",
-    image: speaker6,
+    name: "Ricardo Bustos",
+    image: boogle,
     title: "La industria web3",
     titles: ["FOUNDER AND CEO AT KINDYNOS", "Socio co-fundador of bitmon"],
     bio: `Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed
@@ -340,7 +341,7 @@ export const speakers = [
   },
   {
     id: 7,
-    name: "JORGE ANTONIO GALVAN",
+    name: "Jorge Antonio Galvan",
     image: speaker7,
     title: "La industria web3",
     titles: ["CCO at Vibing Studios.", "GAMING EN WEB3"],
