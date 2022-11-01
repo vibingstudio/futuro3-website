@@ -1,7 +1,7 @@
 import React from 'react'
 import Image from 'next/image'
 
-import techMonterreyLogo from '../../assets/images/tecmtyemp.png'
+import techMonterreyLogo from '../../assets/images/tecMtyEmp.png'
 import vibingLogo from '../../assets/images/vibingLogo.png'
 import btcLogo from '../../assets/images/btcLogo.png'
 import hackerLogo from '../../assets/images/hackerLogo.png'
