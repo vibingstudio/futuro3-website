@@ -1,11 +1,11 @@
 import Image from "next/image";
 import React from "react";
 
-import web3 from "../../assets/images/web3.png";
-import avatar from "../../assets/images/avatar.png";
-import star from "../../assets/images/star.png";
-import building from "../../assets/images/building.png";
 import arrowDown from "../../assets/images/arrowDown.png";
+import avatar from "../../assets/images/avatar.png";
+import building from "../../assets/images/building.png";
+import star from "../../assets/images/star.png";
+import web3 from "../../assets/images/web3.png";
 
 export default function FuturoQuestions() {
   return (
@@ -51,6 +51,14 @@ export default function FuturoQuestions() {
           </p>
         </div>
       </section>
+      <div className="p-4 max-w-6xl m-auto mb-[5rem] font-medium font-primary">
+      <p className="mb-7">
+      Futuro3 es el espacio donde podrás entender el nuevo mundo del internet 3.0.
+          </p>
+          <p>
+          Tanto el ecosistema blockchain de LATAM, estudiantes universitarios y público general interesado en blockchain podrán interactuar en todas las actividades y realizar networking con asistentes de todo México.
+          </p>
+      </div>
       <div className="flex justify-center pb-[5rem]">
         <Image src={arrowDown} alt="arrowDown" />
       </div>

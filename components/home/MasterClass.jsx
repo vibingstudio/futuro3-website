@@ -2,6 +2,9 @@ import Image from "next/image";
 import React from "react";
 
 import arrowWhite from "../../assets/images/arrowWhite.png";
+// import MasterClassVideo from "../../assets/videos/srcVideo.mp4";
+
+
 
 export default function MasterClass() {
   const options = [
@@ -16,6 +19,9 @@ export default function MasterClass() {
       <div className="max-w-[100rem] m-auto grid grid-cols-2 masterContainer">
         <div className="bg-[#AFAFCA] relative right-[-2rem]">
           
+          <video autoPlay muted controls loop className="h-full w-full object-cover">
+        <source src='/srcVideo.mp4' />
+      </video>
         </div>
         <div className="bg-[#3A66F9] sm:p-16 p-8 font-primary text-white relative left-[-3rem] top-[-3.5rem] masterContentContainer">
           <h2 className="title titleWhite relative font-bold text-4xl py-2">

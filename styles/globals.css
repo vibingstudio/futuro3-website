@@ -233,5 +233,13 @@
 
 @font-face {
   font-family: "din";
-  src: url(../assets/fonts/DIN_Condensed_Bold.ttf);
+    src: url('/fonts/DIN_Condensed_Bold.woff2')
+            format('woff2'),
+        url('/fonts/DIN_Condensed_Bold.woff')
+            format('woff'),
+        url('/fonts/DIN_Condensed_Bold.ttf')
+            format('truetype');
+
+    font-weight: 700;
+    font-style: normal;
 }
