@@ -14,6 +14,9 @@
     .masterContainer{
         grid-template-columns: 1fr;
     }
+    .videoBox{
+        right: 0;
+    }
     .masterContentContainer{
         left: 0;
         top: 0;
