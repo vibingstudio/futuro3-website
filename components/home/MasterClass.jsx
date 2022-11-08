@@ -17,7 +17,7 @@ export default function MasterClass() {
     <section className="bg-[#181823] w-full pb-[4rem] pt-[7.5rem] border-t-[8px] border-b-[8px] border-[#3A66F9] overflow-hidden">
       <div className="px-3">
       <div className="max-w-[100rem] m-auto grid grid-cols-2 masterContainer">
-        <div className="bg-[#AFAFCA] relative right-[-2rem]">
+        <div className="bg-[#AFAFCA] relative right-[-2rem] videoBox">
           
           <video autoPlay muted controls loop className="h-full w-full object-cover">
         <source src='/srcVideo.mp4' />
