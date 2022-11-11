@@ -1,173 +1,189 @@
-@media screen and (max-width : 1200px) {
-    .speakerTitle{
-        font-size: 10rem;
-        justify-content: flex-end;
-    }
-    .speakerDes{
-        font-size: 5rem;
-    }
+@media screen and (max-width: 1200px) {
+  .speakerTitle {
+    font-size: 10rem;
+    justify-content: flex-end;
+  }
+  .speakerDes {
+    font-size: 5rem;
+  }
 
-    .speakerItems{
-        font-size: 1.85rem;
-    }
-    .scheduleTitle{
-        font-size: 1.5rem;
-    }
-    .scheduleSpeakerTitle{
-        font-size: 1.25rem;
-    }
-    .scheduleSpeakerDes{
-        font-size: 0.9rem;
-    }
-    .scheduleEventContainer{
-        padding: 1rem;
-    }
-    .scheduleEvent{
-        font-size: 1rem;
-    }
+  .speakerItems {
+    font-size: 1.85rem;
+  }
+  .scheduleTitle {
+    font-size: 1.5rem;
+  }
+  .scheduleSpeakerTitle {
+    font-size: 1.25rem;
+  }
+  .scheduleSpeakerDes {
+    font-size: 0.9rem;
+  }
+  .scheduleEventContainer {
+    padding: 1rem;
+  }
+  .scheduleEvent {
+    font-size: 1rem;
+  }
 }
 
-@media screen and (max-width : 960px) {
-    .schdulePonienteContainer{
-        padding: 1.8rem 1.5rem;
-    }
-    .scheduleTitle{
-        font-size: 1.5rem;
-    }
-    .scheduleSpeakerTitle{
-        font-size: 1rem;
-    }
-    .scheduleSpeakerDes{
-        font-size: 0.7rem;
-    }
-    .scheduleEvent{
-        font-size: 0.8rem;
-    }
+@media screen and (max-width: 960px) {
+  .schdulePonienteContainer {
+    padding: 1.8rem 1.5rem;
+  }
+  .scheduleTitle {
+    font-size: 1.5rem;
+  }
+  .scheduleSpeakerTitle {
+    font-size: 1rem;
+  }
+  .scheduleSpeakerDes {
+    font-size: 0.7rem;
+  }
+  .scheduleEvent {
+    font-size: 0.8rem;
+  }
 }
 
-@media screen and (max-width : 900px) {
-    .speakerTitle{
-        font-size: 7rem;
-    }
-    .speakerDes{
-        font-size: 3rem;
-    }
-    .scheduleBlackArrow{
-        width: 2rem;
-    }
-    .scheduleBlackArrow img {
-        margin-left: 0;
-    }
+@media screen and (max-width: 900px) {
+  .speakerTitle {
+    font-size: 7rem;
+  }
+  .speakerDes {
+    font-size: 3rem;
+  }
+  .scheduleBlackArrow {
+    width: 2rem;
+  }
+  .scheduleBlackArrow img {
+    margin-left: 0;
+  }
 
-    .dateTitle::before , .dateTitle::after{
-        width: 65%;
-    }
+  .dateTitle::before,
+  .dateTitle::after {
+    width: 65%;
+  }
 }
 
-@media screen and (max-width : 800px) {
-    .scheduleTableContainer{
-        grid-template-columns: 1fr 32% 32%;
-    }
-    .scheduleSpeakerDetailsContainer{
-        padding-left: 0;
-    }
-    .schdulePonienteContainer{
-        flex-direction: column;
-    }
-    .scheduleSpeakerTitle{
-        font-size: 1.2rem;
-        padding-top: 0.5rem;
-        text-align: center;
-    }
-    .scheduleSpeakerDes{
-        font-size: 0.9rem;
-        text-align: center;
-    }
+@media screen and (max-width: 800px) {
+  .scheduleTableContainer {
+    grid-template-columns: 1fr 32% 32%;
+  }
+  .scheduleSpeakerDetailsContainer {
+    padding-left: 0;
+  }
+  .schdulePonienteContainer {
+    flex-direction: column;
+  }
+  .scheduleSpeakerTitle {
+    font-size: 1.2rem;
+    padding-top: 0.5rem;
+    text-align: center;
+  }
+  .scheduleSpeakerDes {
+    font-size: 0.9rem;
+    text-align: center;
+  }
 }
 
-@media screen and (max-width : 700px) {
-    .scheduleTableContainer{
-        grid-template-columns: 1fr;
-    }
-    .schdulePonienteContainer{
-        flex-direction: row;
-    }
-    .scheduleSpeakerDetailsContainer{
-        padding-left: 1rem;
-    }
-    .scheduleSpeakerTitle{
-        text-align: left;
-    }
-    .scheduleSpeakerDes{
-        text-align: left;
-    }
-    .eventTile{
-        display: none;
-    }
-    .timeTitle{
-        display: none;
-    }
-    .arrowTableColumn{
-        text-align: center;
-    }
-    .horarioContainer{
-        font-size: 1.25rem;
-        display: flex;
-        align-items: center;
-    }
-    .horario{
-        display: block;
-        padding-right: 0.4rem;
-    }
+@media screen and (max-width: 700px) {
+  .scheduleTableContainer {
+    grid-template-columns: 1fr;
+  }
+  .schdulePonienteContainer {
+    flex-direction: row;
+  }
+  .scheduleSpeakerDetailsContainer {
+    padding-left: 1rem;
+  }
+  .scheduleSpeakerTitle {
+    text-align: left;
+  }
+  .scheduleSpeakerDes {
+    text-align: left;
+  }
+  .eventTile {
+    display: none;
+  }
+  .timeTitle {
+    display: none;
+  }
+  .arrowTableColumn {
+    text-align: center;
+  }
+  .horarioContainer {
+    font-size: 1.25rem;
+    display: flex;
+    align-items: center;
+  }
+  .horario {
+    display: block;
+    padding-right: 0.4rem;
+  }
 }
 
-@media screen and (max-width : 660px) {
-    .speakerTitle{
-        font-size: 5rem;
-    }
-    .speakerTitleContainer{
-        padding-right: 5%;
-    }
-    .speakerThreeArrow{
-        width: 60px;
-        margin-left: 1rem;
-    }
-    .scheduleBlackArrow{
-        display: none;
-    }
-    .speakerItems{
-        text-align: center;
-        font-size: 1.4rem;
-    }
-    .dateTitle{
-        font-size: 2.2rem;
-    }
-    .dateTitle::before , .dateTitle::after{
-        width: 95%;
-    }
+@media screen and (max-width: 660px) {
+  .speakerTitle {
+    font-size: 5rem;
+  }
+  .speakerTitleContainer {
+    padding-right: 5%;
+  }
+  .speakerThreeArrow {
+    width: 60px;
+    margin-left: 1rem;
+  }
+  .scheduleBlackArrow {
+    display: none;
+  }
+  .speakerItems {
+    text-align: center;
+    font-size: 1.4rem;
+  }
+  .dateTitle {
+    font-size: 2.2rem;
+  }
+  .dateTitle::before,
+  .dateTitle::after {
+    width: 95%;
+  }
 }
 
+@media screen and (max-width: 500px) {
+  .speakerTitle {
+    font-size: 4rem;
+  }
+  .speakerDes {
+    font-size: 2rem;
+  }
+  .speakerThreeArrow {
+    width: 50px;
+  }
+  .scheduleSpeakerDetailsContainer {
+    padding-left: 0;
+  }
+  .schdulePonienteContainer {
+    flex-direction: column;
+  }
+  .scheduleSpeakerTitle {
+    text-align: center;
+  }
+  .scheduleSpeakerDes {
+    text-align: center;
+  }
+}
 
-@media screen and (max-width : 500px) {
-    .speakerTitle{
-        font-size: 4rem;
-    }
-    .speakerDes{
-        font-size: 2rem;
-    }
-    .speakerThreeArrow{
-        width: 50px;
-    }
-    .scheduleSpeakerDetailsContainer{
-        padding-left: 0;
-    }
-    .schdulePonienteContainer{
-        flex-direction: column;
-    }
-    .scheduleSpeakerTitle{
-        text-align: center;
-    }
-    .scheduleSpeakerDes{
-        text-align: center;
-    }
+@media screen and (max-width: 440px) {
+  .customLogo {
+    width: 10rem;
+  }
+  .customMenuSize {
+    font-size: 14px;
+    margin-left: 0;
+  }
+}
+@media screen and (max-width: 280px) {
+  .customMenuSize {
+    display: none;
+  }
 }
