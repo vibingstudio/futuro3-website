@@ -32,7 +32,7 @@ export const updateSpeakers = [
       },
       {
         id: 2,
-        name: "César Gaytan",
+        name: "Cesar Gaytán",
         image: speaker2,
         title: "Founder of HackWise.",
         time: "10.00 am",
@@ -80,7 +80,7 @@ export const updateSpeakers = [
         name: "Daniel Camacho",
         image: speaker7,
         title:
-          "Chief of Crytpo Operations <br/> at Soluciones Blockchain México.",
+          "Chief of Crypto Operations <br/> at Soluciones Blockchain México.",
         time: "4.00 pm",
         event: "CÓMO LLEVAR TU EMPRESA A LA WEB3",
         duration: "50min",
@@ -190,7 +190,7 @@ export const updateSpeakers = [
         image: speaker9,
         title: "Daniel Camacho",
         time: "6.00 pm",
-        event: "ETEHRUM, SMARTCONTRACTS y NFT’s",
+        event: "ETHEREUM, SMART CONTRACTS y NFT’s",
         duration: "4hrs",
       },
     ],

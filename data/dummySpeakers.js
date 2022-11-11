@@ -30,7 +30,7 @@ export const dummySpeakers = [
         time: "10:00 am",
       },
       {
-        name: "César Gaytan",
+        name: "Cesar Gaytán",
         img: speaker4,
         title: "DE BITCOIN A LA WEB3 Y MAS ALLÁ",
         titles: ["Founder and CEO at microbit", "Wemerang co-founder"],
@@ -214,7 +214,7 @@ export const speakers = [
   },
   {
     id: 4,
-    name: "Cesar Gaytan",
+    name: "César Gaytán",
     image: speaker4,
     title: "De Bitcoin a la Web3 y mas allá",
     titles: ["Founder at Hackwise", "De Bitcoin a la Web3 y mas allá"],
@@ -346,7 +346,7 @@ export const speakers = [
     al usuario final usando marketing digital y reconocimiento de marca.
     
     <br><br>Cuenta con experiencia en integración de aplicaciones blockchain en Latinoamérica con acercamiento a mercados FIAT e implementación de licencias crypto de Estonia.
-    <br>Asi como con conocimiento sobre core bancario y cumplimiento de las regulaciones financieras
+    <br>Así como con conocimiento sobre core bancario y cumplimiento de las regulaciones financieras
     <br><br>Con más de 15 años de participación en proyectos de gobierno e industria privada, en específico para el sector financiero.`,
   },
   {
