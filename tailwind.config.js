@@ -6,22 +6,25 @@ module.exports = {
   ],
   theme: {
     extend: {
-      colors : {
-        primary : "#3A66F9"
+      colors: {
+        primary: "#3A66F9",
       },
-      screens : {
-        navBreakpoint : '1024px'
+      backgroundImage: {
+        clock: 'url("/clock.png")',
       },
-      fontFamily : {
-        primary : ['Montserrat', 'sans-serif'],
-        secondary : ['Nunito', 'sans-serif'],
-        tertiary : ['din']
+      screens: {
+        navBreakpoint: "1024px",
       },
-      gridTemplateColumns : {
-        withDevider : '1fr 4px 1fr',
-        scheduleTable : '1fr 25% 25%'
-      }
+      fontFamily: {
+        primary: ["Montserrat", "sans-serif"],
+        secondary: ["Nunito", "sans-serif"],
+        tertiary: ["din"],
+      },
+      gridTemplateColumns: {
+        withDevider: "1fr 4px 1fr",
+        scheduleTable: "1fr 25% 25%",
+      },
     },
   },
   plugins: [],
-}
+};
