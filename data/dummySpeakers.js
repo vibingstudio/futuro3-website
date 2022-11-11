@@ -159,7 +159,7 @@ export const dummySpeakers = [
         img: masterC,
         title: "La industria web3",
         titles: ["Daniel Camacho"],
-        event: "<b>LA TOKENIZACION DE LAS COSAS</b>",
+        event: "<b>LA TOKENIZACIÓN DE LAS COSAS</b>",
         time: "6:30 pm - 10:00 pm",
       },
     ],
@@ -229,7 +229,18 @@ export const speakers = [
     image: speaker40,
     title: "Realidad virtual en la F1",
     titles: ["CEO at APEX", "Realidad virtual en la F1"],
-    bio: `Ramiro's bio.`,
+    bio: `Guiado por una pasión por la tecnología y las carreras de autos, a sus 31 años de edad, Ramiro dirige APEX, 
+    empresa líder en desarrollo de soluciones de simulación para entrenamiento de pilotos y conductores del transporte y logística. 
+
+    <br><br>Hoy, APEX tiene dentro de su portafolio de clientes a grandes empresas e instituciones públicas: 
+    <br>• Coca-Cola 
+    <br>• FEMSA
+    <br>• Danone
+    <br>• Estafeta
+    <br>• PEMEX
+    <br>• La Policía de San Pedro Garza García, entre otras.
+    
+    <br><br>Además forma parte de uno de los eventos mas importantes del automovilismo, el Gran Premio de México de Fórmula 1. Ramiro también es piloto de NASCAR; fue en su debut que alcanzó su primera victoria, y desde entonces ha competido en varias carreras del giro.`,
   },
   {
     id: 6,
@@ -271,12 +282,12 @@ export const speakers = [
     image: speaker7,
     title: "Gaming en web3",
     titles: ["CCO at Vibing Studios.", "GAMING EN WEB3"],
-    bio: `Ing. En Mecatronica egresado del Tec de Monterrey. 
-    <br>Ha trabajado en el desarrollo de videojuegos desde 2017 en sus diferentes areas, 2D, 3D y realidad virtual. 
+    bio: `Ing. En Mecatrónica egresado del Tec de Monterrey. 
+    <br>Ha trabajado en el desarrollo de videojuegos desde 2017 en sus diferentes áreas, 2D, 3D y realidad virtual. 
     <br>Gurú tecnológico en ingeniería y arquitectura de juegos. 
     <br>Defensor de <i>"La diversión, ante todo"</i>. 
     <br>Con más de 5 años de experiencia en desarrollo y gestión de videojuegos, desde la experiencia a nivel usuario, como manejo a nivel empresarial. 
-    <br>Promotor de <i>Play and earn</i> e inversionista en Web3 y actual cofundador de Vibing Studios.
+    <br>Promotor de <i>Play and earn</i>, inversionista en Web3 y actual cofundador de Vibing Studios.
     `,
   },
   {
@@ -286,13 +297,14 @@ export const speakers = [
     title: "WEB3, la evolución del internet",
     titles: ["CIO at Vibing Studios", "WEB3, la evolución del internet"],
     bio: `Ing. en Inteligencia Artificial con especialidad en calidad de software.<br>	
-    Experiencia en proyectos de tecnología blockchain desde 2018<br>	
+    
+    Cuenta con experiencia en proyectos de tecnología blockchain desde 2018<br>	
     	
     <br>Se desempeñó como desarrollador en Kyndinos, empresa de desarrollo blockchain donde se crearon criptomonedas, aplicaciones, y servicios web3, 	
-    así como proyectos junto a Mastercard el cual buscaba acercar las criptomonedas al uso diario, pagando como una tarjeta bancaria común.	
+    así como proyectos junto a Mastercard para acercar las criptomonedas al uso diario, pagando como una tarjeta bancaria común.	
     	
     <br><br>Al interesarse en la tecnología NFT, comenzó a desarrollarse en esta área lo cual llevó junto a Ricardo Bustos, Jorge Galvan y el resto del equipo	
-     a la fundación de Vibing Studios a finales de 2021.	
+     a la fundación de Vibing Studios a finales de 2021.
     `,
   },
   {
@@ -316,16 +328,10 @@ export const speakers = [
     name: "Abimelek Casterezana",
     image: speaker6,
     title: "El metaverso viene y es sensacional",
-    titles: ["CTO AT VIBING.", "El metaverso viene y es sensacional."],
-    bio: `Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed
-    diam nonummy nibh euismod tincidunt ut laoreet dolore magna
-    aliquam erat volutpat. Ut wisi enim ad minim veniam, quis
-    nostrud exerci tation ullamcorper suscipit lobortis nisl ut
-    aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor
-    in hendrerit in vulputate velit esse molestie consequat, vel
-    illum dolore eu feugiat nulla facilisis at vero eros et accumsan
-    et iusto odio dignissim qui blandit praesent luptatum zzril
-    delenit augue duis dolore te feugait nulla facilisi. <br />`,
+    titles: ["Blockchain developer & influencer.", "El metaverso viene y es sensacional."],
+    bio: `Estudiante de la UG de mecatrónica, amante de los vieojuegos, NFTs, crear contenido y el metaverso. 
+    <br>Trabaja como desarrollador de proyectos como colecciones, marketplaces, en <b>Wemerang</b> como ingeniero de producto, 
+    instructor en blockdemy y CTO en Esferik Agency. <br />`,
   },
   {
     id: 20,
@@ -333,15 +339,15 @@ export const speakers = [
     image: speaker20,
     title: "La revolución de DeFi",
     titles: ["CEO at Trubit.", "La revolución de DeFi."],
-    bio: `Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed
-    diam nonummy nibh euismod tincidunt ut laoreet dolore magna
-    aliquam erat volutpat. Ut wisi enim ad minim veniam, quis
-    nostrud exerci tation ullamcorper suscipit lobortis nisl ut
-    aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor
-    in hendrerit in vulputate velit esse molestie consequat, vel
-    illum dolore eu feugiat nulla facilisis at vero eros et accumsan
-    et iusto odio dignissim qui blandit praesent luptatum zzril
-    delenit augue duis dolore te feugait nulla facilisi. <br />`,
+    bio: `Consultor en innovación y sustentabilidad, experiencia en desarrollo y soporte de productos principalmente basados en tecnologías emergentes, Blockchain, IOT e Inteligencia Artificial 
+    <br>durante varios años con un enfoque en el sector Fintech.
+
+    <br><br>Ha desarrollado nuevos negocios con experiencia en mercados internacionales, diseño e implementación de modelos operativos y estrategias de acercamiento 
+    al usuario final usando marketing digital y reconocimiento de marca.
+    
+    <br><br>Cuenta con experiencia en integración de aplicaciones blockchain en Latinoamérica con acercamiento a mercados FIAT e implementación de licencias crypto de Estonia.
+    <br>Asi como con conocimiento sobre core bancario y cumplimiento de las regulaciones financieras
+    <br><br>Con más de 15 años de participación en proyectos de gobierno e industria privada, en específico para el sector financiero.`,
   },
   {
     id: 19,
@@ -349,13 +355,24 @@ export const speakers = [
     image: speaker19,
     title: "Trading algorítmico",
     titles: ["Hacker Garage.", "Trading algorítmico."],
-    bio: `Trader Algorítmico y emprendedor social, apasionado por la tecnología, facilitador de
-    programas de emprendimiento e innovación. He colaborado como consultor para
+    bio: `<b>Daniel Salazar Ruiz Esparza</b>:
+    <br>Trader Algorítmico y emprendedor social, apasionado por la tecnología, facilitador de
+    programas de emprendimiento e innovación. 
+    <br>Ha colaborado como consultor para
     emprendedores, micro y pequeñas empresas con organizaciones de referencia nacional en el
-    ecosistema emprendedor como lo son: ilab incubadora de empresas de alto impacto, centros
-    de inclusión digital, ESMEX, entre otras. Actualmente como parte del equipo de Hacker
-    Traders, trabajo en el desarrollo y automatización de estrategias de inversión para los
+    ecosistema emprendedor como lo son: 
+    <br>-Ilab incubadora de empresas de alto impacto
+    <br>-Centros de inclusión digital
+    <br>-ESMEX, entre otras. 
+    <br>Actualmente forma parte del equipo de <i>Hacker Traders</i>, trabajo en el desarrollo y automatización de estrategias de inversión para los
     mercados bursátiles.
+    <br><br><b>Héctor Felipe Barrón Ibarra:</b>
+    <br>Trader profesional con dos años de experiencia, egresado de Gestión de Empresas del ITD
+    (Instituto Tecnológico de Durango);
+    <br>Emprendedor en marketing digital, apasionado por la
+    tecnología, innovación, la economía circular y la sostenibilidad.
+    <br>Actualmente incursiona en el mundo del trading algorítmico desarrollando y automatizando
+    estrategias como miembro de <i>Hacker Traders</i>.
     `,
   },
 
