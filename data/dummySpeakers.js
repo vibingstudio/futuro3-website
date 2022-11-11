@@ -1,3 +1,8 @@
+import black from "../assets/images/black.png";
+import boogle from "../assets/images/boogle.png";
+import emp from "../assets/images/emp.png";
+import f3 from "../assets/images/f3.png";
+import masterC from "../assets/images/mc.png";
 import speaker1 from "../assets/images/speaker1.png";
 import speaker2 from "../assets/images/speaker2.png";
 import speaker3 from "../assets/images/speaker3.png";
@@ -5,12 +10,7 @@ import speaker4 from "../assets/images/speaker4.png";
 import speaker5 from "../assets/images/speaker5.png";
 import speaker6 from "../assets/images/speaker6.png";
 import speaker7 from "../assets/images/speaker7.png";
-import boogle from "../assets/images/boogle.png";
-import emp from "../assets/images/emp.png";
 import tallerF from "../assets/images/tallerfuturo.png";
-import masterC from "../assets/images/mc.png";
-import black from "../assets/images/black.png";
-import f3 from "../assets/images/f3.png";
 
 export const dummySpeakers = [
   {
@@ -21,23 +21,16 @@ export const dummySpeakers = [
         name: "Ricardo Bustos",
         img: boogle,
         title: "INAUGURACIÓN Y PRESENTACIÓN VIBING.",
-        titles: [
-          "CEO at Vibing Studios.",
-        ],
-        event:
-          "<b>INAUGURACIÓN Y PRESENTACIÓN VIBING.</b>",
+        titles: ["CEO at Vibing Studios."],
+        event: "<b>INAUGURACIÓN Y PRESENTACIÓN VIBING.</b>",
         time: "10:00 am",
       },
       {
         name: "César Gaytan",
         img: speaker4,
         title: "DE BITCOIN A LA WEB3 Y MAS ALLÁ",
-        titles: [
-          "Founder and CEO at microbit",
-          "Wemerang co-founder",
-        ],
-        event:
-          "<b>DE BITCOIN A LA WEB3 Y MAS ALLÁ</b>",
+        titles: ["Founder and CEO at microbit", "Wemerang co-founder"],
+        event: "<b>DE BITCOIN A LA WEB3 Y MAS ALLÁ</b>",
         time: "11:00 am",
       },
       {
@@ -45,8 +38,7 @@ export const dummySpeakers = [
         img: emp,
         title: "",
         titles: ["Parque de Innovación"],
-        event:
-          "<b>REALIDAD VIRTUAL EN LA F1</b>",
+        event: "<b>REALIDAD VIRTUAL EN LA F1</b>",
         time: "12:00 pm",
       },
       {
@@ -54,8 +46,7 @@ export const dummySpeakers = [
         img: tallerF,
         title: "La industria web3",
         titles: ["Vibing."],
-        event:
-          "<b>NFT Utility Showcase</b>",
+        event: "<b>NFT Utility Showcase</b>",
         time: "1:00 pm - 2:00 pm",
       },
       {
@@ -63,8 +54,7 @@ export const dummySpeakers = [
         img: speaker5,
         title: "Bitcoin, la evolucion del dinero",
         titles: ["CTO AT VIBING.", "Blockchain Developer."],
-        event:
-          "<b>BITCOIN, LA EVOLUCION DEL DINERO.</b>",
+        event: "<b>BITCOIN, LA EVOLUCION DEL DINERO.</b>",
         time: "3:00 pm",
       },
       {
@@ -72,17 +62,18 @@ export const dummySpeakers = [
         img: speaker6,
         title: "La industria web3",
         titles: ["Blockchain developer & influencer."],
-        event:
-          "<b>EL METAVERSO VIENE Y ES SENSACIONAL.</b>",
+        event: "<b>EL METAVERSO VIENE Y ES SENSACIONAL.</b>",
         time: "4:00 pm",
       },
       {
         name: "Daniel Camacho",
         img: speaker3,
         title: "De bitcoin a la web3 y mas allá",
-        titles: ["Chief of Crypto Operations.", "at Soluciones Blockchain Mexico"],
-        event:
-          "<b>COMO LLEVAR TU EMPRESA A LA WEB3.</b>",
+        titles: [
+          "Chief of Crypto Operations.",
+          "at Soluciones Blockchain Mexico",
+        ],
+        event: "<b>COMO LLEVAR TU EMPRESA A LA WEB3.</b>",
         time: "5:00 pm",
       },
       {
@@ -90,8 +81,7 @@ export const dummySpeakers = [
         img: masterC,
         title: "La industria web3",
         titles: ["Daniel Camacho."],
-        event:
-          "<b>MASTERCLASS 1 <br> INTRODUCCIÓN A BLOCKCHAIN</b>",
+        event: "<b>MASTERCLASS 1 <br> INTRODUCCIÓN A BLOCKCHAIN</b>",
         time: "6:30 pm - 10:30 pm",
       },
     ],
@@ -104,31 +94,27 @@ export const dummySpeakers = [
         name: "Fernando Sosa",
         img: black,
         title: "La industria web3",
-        titles: [
-          "Tribal",
-        ],
-        event:
-          "<b>CRYPTO EN FINTECH</b>",
+        titles: ["Tribal"],
+        event: "<b>CRYPTO EN FINTECH</b>",
         time: "10:00 am",
       },
       {
         name: "Luis Daniel Beltran",
         img: speaker1,
         title: "Blockchain, ¿sí cambió al mundo?",
-        titles: [
-          "Founder of Wemerang",
-        ],
-        event:
-          "<b>BLOCKCHAIN, ¿SÍ CAMBIÓ AL MUNDO?</b>",
+        titles: ["Founder of Wemerang"],
+        event: "<b>BLOCKCHAIN, ¿SÍ CAMBIÓ AL MUNDO?</b>",
         time: "11:00 am",
       },
       {
         name: "Daniel Camacho",
         img: speaker3,
         title: "La industria web3",
-        titles: ["Chief of Crypto Operations.", "at Soluciones Blockchain Mexico"],
-        event:
-          "<b>TOKENOMICS: TOKENIZANDO Y NFTIZANDO</b>",
+        titles: [
+          "Chief of Crypto Operations.",
+          "at Soluciones Blockchain Mexico",
+        ],
+        event: "<b>TOKENOMICS: TOKENIZANDO Y NFTIZANDO</b>",
         time: "12:00 pm",
       },
       {
@@ -136,8 +122,7 @@ export const dummySpeakers = [
         img: emp,
         title: "La industria web3",
         titles: ["Parque de Innovación"],
-        event:
-          "<b>PREPAVERSO</b>",
+        event: "<b>PREPAVERSO</b>",
         time: "1:00 pm - 2:00 pm",
       },
       {
@@ -145,8 +130,7 @@ export const dummySpeakers = [
         img: speaker2,
         title: "WEB3, la evolución del internet",
         titles: ["CEO AT Kyndinos"],
-        event:
-          "<b>WEB3, LA EVOLUCIÓN DEL INTERNET</b>",
+        event: "<b>WEB3, LA EVOLUCIÓN DEL INTERNET</b>",
         time: "3:00 pm",
       },
       {
@@ -154,8 +138,7 @@ export const dummySpeakers = [
         img: speaker7,
         title: "Gaming en web3",
         titles: ["COO AT Vibing Studios"],
-        event:
-          "<b>GAMING EN WEB3</b>",
+        event: "<b>GAMING EN WEB3</b>",
         time: "4:00 pm",
       },
       {
@@ -172,8 +155,7 @@ export const dummySpeakers = [
         img: masterC,
         title: "La industria web3",
         titles: ["Daniel Camacho"],
-        event:
-          "<b>LA TOKENIZACION DE LAS COSAS</b>",
+        event: "<b>LA TOKENIZACION DE LAS COSAS</b>",
         time: "6:30 pm - 10:00 pm",
       },
     ],
@@ -186,11 +168,8 @@ export const dummySpeakers = [
         name: "Masterclass 3",
         img: masterC,
         title: "La industria web3",
-        titles: [
-          "Daniel Camacho",
-        ],
-        event:
-          "<b>CREACIÓN Y APLICACIÓN DE SMART CONTRACTS</b>",
+        titles: ["Daniel Camacho"],
+        event: "<b>CREACIÓN Y APLICACIÓN DE SMART CONTRACTS</b>",
         time: "10:00 am - 2:00 pm",
       },
     ],
@@ -238,9 +217,7 @@ export const speakers = [
     name: "Daniel Camacho",
     image: speaker3,
     title: "De bitcoin a la web3 y mas allá",
-    titles: [
-      "CEO at Monterrey Bitcoin Embassy",
-    ],
+    titles: ["CEO at Monterrey Bitcoin Embassy"],
     bio: `Mtro. Daniel Camacho es profesor investigador, empresario, emprendedor, escritor, conferencista, docente científico, criptoentusiasta, cypherpunk, anarco-economista, tokenomista profesional y contador público. 
     <br><br>
     Cuenta los MBA Majors in Finance y Global Management; y una Maestría en Ciencias de la Educación. Tiene más de 12 años de experiencia en auditoría, economía, contabilidad y finanzas; especializado en Industria 4.0, Tecnología Blockchain, Criptodivisas y Tokenomía.
@@ -255,11 +232,11 @@ export const speakers = [
   },
   {
     id: 3,
-    name: "Jorge Villalobos",
+    name: "Enrique Berrueta",
     image: speaker2,
     title: "WEB3, la evolución del internet",
-    titles: ["CIO at Vibing Studios", ""],
-    bio: `aaa ipsum dolor sit amet, consectetuer adipiscing elit, sed
+    titles: ["FOUNDER AND CEO AT MICROBIT", "Socio co-fundador of wemerang"],
+    bio: `Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed
     diam nonummy nibh euismod tincidunt ut laoreet dolore magna
     aliquam erat volutpat. Ut wisi enim ad minim veniam, quis
     nostrud exerci tation ullamcorper suscipit lobortis nisl ut
