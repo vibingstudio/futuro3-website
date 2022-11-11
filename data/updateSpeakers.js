@@ -157,9 +157,9 @@ export const updateSpeakers = [
       },
       {
         id: 15,
-        name: "Enrique Berrueta",
+        name: "Jorge Villalobos",
         image: speaker15,
-        title: "CEO at Kyndinos.",
+        title: "CIO at Vibing Studios.",
         time: "3.00 pm",
         event: "WEB3, LA EVOLUCIÓN DEL INTERNET",
         duration: "50min",
@@ -180,7 +180,7 @@ export const updateSpeakers = [
         title: "Futuro3",
         time: "5.00 pm",
         event:
-          "PANEL: EL MUNDO DESCENTRALIZADO <br/> <span class='font-primary font-light text-lg'>Ricardo Bustos, Daniel Camacho, Enrique Berrueta y Luis Daniel Beltrán.</span>",
+          "PANEL: EL MUNDO DESCENTRALIZADO <br/> <span class='font-primary font-light text-lg'>Ricardo Bustos, Daniel Camacho y Luis Daniel Beltrán.</span>",
         duration: "50min",
       },
       {

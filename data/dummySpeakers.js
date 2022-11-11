@@ -141,7 +141,7 @@ export const dummySpeakers = [
         time: "1:00 pm - 2:00 pm",
       },
       {
-        name: "Enrique Berrueta",
+        name: "Jorge Villalobos",
         img: speaker2,
         title: "WEB3, la evolución del internet",
         titles: ["CEO AT Kyndinos"],
@@ -164,7 +164,7 @@ export const dummySpeakers = [
         title: "La industria web3",
         titles: ["Multiple awesome people"],
         event:
-          "<b>PANEL: EL MUNDO DECENTRALIZADO</b><br><i>Ricardo Bustos, Daniel Camacho, Enrique Berrueta y Luis Beltrán</i>",
+          "<b>PANEL: EL MUNDO DECENTRALIZADO</b><br><i>Ricardo Bustos, Daniel Camacho y Luis Beltrán</i>",
         time: "5:00 pm",
       },
       {
@@ -255,11 +255,11 @@ export const speakers = [
   },
   {
     id: 3,
-    name: "Enrique Berrueta",
+    name: "Jorge Villalobos",
     image: speaker2,
     title: "WEB3, la evolución del internet",
-    titles: ["FOUNDER AND CEO AT MICROBIT", "Socio co-fundador of wemerang"],
-    bio: `Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed
+    titles: ["CIO at Vibing Studios", ""],
+    bio: `aaa ipsum dolor sit amet, consectetuer adipiscing elit, sed
     diam nonummy nibh euismod tincidunt ut laoreet dolore magna
     aliquam erat volutpat. Ut wisi enim ad minim veniam, quis
     nostrud exerci tation ullamcorper suscipit lobortis nisl ut
@@ -322,7 +322,7 @@ export const speakers = [
     name: "Luis Enrique Correa",
     image: speaker5,
     title: "Bitcoin, la evolucion del dinero",
-    titles: ["FOUNDER AND CEO AT KINDYNOS", "Socio co-fundador of bitmon"],
+    titles: ["CTO at Vibing Studios.", ""],
     bio: `Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed
     diam nonummy nibh euismod tincidunt ut laoreet dolore magna
     aliquam erat volutpat. Ut wisi enim ad minim veniam, quis
