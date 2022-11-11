@@ -27,7 +27,7 @@ const Header = () => {
     // },
     {
       name: "Registro",
-      link: "https://forms.gle/wMU2yszf9BGBSPRk8",
+      link: "https://www.eventbrite.es/e/futuro3-tickets-466015945237",
       // haveSubmenu: true,
       // subMenu: [
       //   {
