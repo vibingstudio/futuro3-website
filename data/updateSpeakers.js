@@ -157,9 +157,9 @@ export const updateSpeakers = [
       },
       {
         id: 15,
-        name: "Enrique Berrueta",
+        name: "Jorge Villalobos",
         image: speaker15,
-        title: "CEO at Kyndinos.",
+        title: "CIO at Vibing Studios",
         time: "3.00 pm",
         event: "WEB3, LA EVOLUCIÓN DEL INTERNET",
         duration: "50min",

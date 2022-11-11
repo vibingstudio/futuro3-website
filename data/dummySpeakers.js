@@ -232,11 +232,11 @@ export const speakers = [
   },
   {
     id: 3,
-    name: "Enrique Berrueta",
+    name: "Jorge Villalobos",
     image: speaker2,
     title: "WEB3, la evolución del internet",
-    titles: ["FOUNDER AND CEO AT MICROBIT", "Socio co-fundador of wemerang"],
-    bio: `Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed
+    titles: ["CIO at Vibing Studios", ""],
+    bio: `aaa ipsum dolor sit amet, consectetuer adipiscing elit, sed
     diam nonummy nibh euismod tincidunt ut laoreet dolore magna
     aliquam erat volutpat. Ut wisi enim ad minim veniam, quis
     nostrud exerci tation ullamcorper suscipit lobortis nisl ut
