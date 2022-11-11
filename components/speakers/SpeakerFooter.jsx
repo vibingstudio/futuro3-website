@@ -3,7 +3,7 @@ import React from "react";
 
 import blockchainLogo from "../../assets/images/blockchain.png";
 import btcLogo from "../../assets/images/btcLogo.png";
-import circuloLogo from "../../assets/images/circulo.png";
+import circuloLogo from "../../assets/images/circulo1.png";
 import hackerLogo from "../../assets/images/hackerLogo.png";
 import kindynos from "../../assets/images/kindynos.png";
 import emprenLogo from "../../assets/images/tecMtyEmp.png";

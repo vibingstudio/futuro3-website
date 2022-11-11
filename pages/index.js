@@ -1,17 +1,19 @@
 import Head from "next/head";
 import Image from "next/image";
 
-import threeArrow from "../assets/images/threeArrow.png";
-import techMonterrey from "../assets/images/tecmty.png";
 import btc from "../assets/images/btc.png";
+import techMonterrey from "../assets/images/tecmty.png";
+import threeArrow from "../assets/images/threeArrow.png";
 import { FuturoQuestions, MasterClass, Speakers } from "../components";
 import { AbsoluteWrapper, Footer } from "../components/common";
+
+import Arrow from '../assets/images/blackArrow.png';
 
 export default function Home() {
   return (
     <>
       <Head>
-        <title>Futuro 3</title>
+        <title>Futuro3</title>
         <meta name="description" content="futuro3" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -43,7 +45,14 @@ export default function Home() {
           </div>
         </div>
         
-        <div className="flex items-center pl-[2%] c-gap-2rem pb-[3rem]">
+{/* arrow */}
+<div className="absolute bottom-0 right-0 w-[21%] sm:w-[25%] 2xl:max-w-[400px] flex  gap-0 lg:gap-4 items-end">
+  <span className="hidden sm:block text-white text-sm pb-[13px] xl:pb-[32px] bannerDate">Descubre más</span>
+  <Image src={Arrow} alt="" className="rotate-45 w-full flex-1"/>
+
+</div>
+
+        <div className="flex items-center xl:flex-nowrap flex-wrap pl-[2%] pb-[3rem] mr-[28%] 2xl:mr-[0%] gap-6">
           <span>
             <Image src={techMonterrey} alt="techMonterrey" className="techMonterrey" />
           </span>

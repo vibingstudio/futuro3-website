@@ -22,12 +22,12 @@ export default function Speaker() {
     }
   }, [speaker]);
   console.log(singleImage)
- const spImage=`/img/${singleImage}.png`
+ const spImage=`/img/${singleImage}B.png`
 
   return (
     <>
       <Head>
-        <title>Futuro 3 | Speaker</title>
+        <title>Futuro3 | Speaker</title>
         <meta name="description" content="futuro3" />
       </Head>
       <section className="w-full">

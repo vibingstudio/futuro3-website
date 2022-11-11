@@ -8,7 +8,7 @@ export default function Speakers() {
   return (
     <main className="">
       <Head>
-        <title>Futuro 3 | Speakers</title>
+        <title>Futuro3 | Speakers</title>
         <meta name="description" content="futuro3" />
       </Head>
       <Banner />
