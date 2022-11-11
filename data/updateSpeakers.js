@@ -157,7 +157,7 @@ export const updateSpeakers = [
       },
       {
         id: 15,
-        name: "Enrique Berrueta",
+        name: "Jorge Villalobos",
         image: speaker15,
         title: "CEO at Kyndinos.",
         time: "3.00 pm",

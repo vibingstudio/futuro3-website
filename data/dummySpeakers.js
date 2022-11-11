@@ -129,16 +129,18 @@ export const dummySpeakers = [
         name: "Jorge Villalobos",
         img: speaker2,
         title: "WEB3, la evolución del internet",
-        titles: ["CEO AT Kyndinos"],
-        event: "<b>WEB3, LA EVOLUCIÓN DEL INTERNET</b>",
+        titles: ["CIO at Vibing Studios."],
+        event:
+          "<b>WEB3, LA EVOLUCIÓN DEL INTERNET</b>",
         time: "3:00 pm",
       },
       {
         name: "Jorge Galván",
         img: speaker7,
         title: "Gaming en web3",
-        titles: ["COO AT Vibing Studios"],
-        event: "<b>GAMING EN WEB3</b>",
+        titles: ["COO at Vibing Studios"],
+        event:
+          "<b>GAMING EN WEB3</b>",
         time: "4:00 pm",
       },
       {
@@ -182,35 +184,13 @@ export const speakers = [
     name: "Ricardo Bustos",
     image: boogle,
     title: "Inauguración",
-    titles: ["FOUNDER AND CEO AT KINDYNOS", "Socio co-fundador of bitmon"],
-    bio: `Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed
-    diam nonummy nibh euismod tincidunt ut laoreet dolore magna
-    aliquam erat volutpat. Ut wisi enim ad minim veniam, quis
-    nostrud exerci tation ullamcorper suscipit lobortis nisl ut
-    aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor
-    in hendrerit in vulputate velit esse molestie consequat, vel
-    illum dolore eu feugiat nulla facilisis at vero eros et accumsan
-    et iusto odio dignissim qui blandit praesent luptatum zzril
-    delenit augue duis dolore te feugait nulla facilisi. <br />
-    Lorem ipsum dolor sit amet, cons ectetuer adipiscing elit, sed
-    diam nonummy nibh euismod tincidunt ut laoreet dolore magna
-    aliquam erat volutpat. <br /> <br />
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed
-    diam nonummy nibh euismod tincidunt ut laoreet dolore magna
-    aliquam erat volutpat. Ut wisi enim ad minim veniam, quis
-    nostrud exerci tation ullamcorper suscipit lobortis nisl ut
-    aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor
-    in hendrerit in vulputate velit esse molestie consequat, vel
-    illum dolore eu feugiat nulla facilisis at vero eros et accumsan
-    et iusto odio dignissim qui blandit praesent luptatum zzril
-    delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum
-    dolor sit amet, cons ectetuer adipiscing elit, sed diam nonummy
-    nibh euismod tincidunt ut laoreet dolore magna aliquam erat
-    volutpat. <br /> Ut wisi enim ad minim veniam, quis nostrud
-    exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex
-    ea commodo consequat. Lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit, sed diam nonummy nibh euismod tincidunt ut
-    laoreet dolore magna aliquam erat`,
+    titles: ["CEO at Vibing Studios.", ""],
+    bio: `Ing. En Inteligencia Artificial con especialidad en calidad de software.
+    <br>Gurú de criptomonedas, NFTs y tokenomics. 
+    <br>Ha trabajado con diferentes criptomonedas y liderado una empresa de desarrollo enfocada a blockchain, incluyendo proyectos de integracion Web2 en Web3. 
+    <br>Inversionista en web3 desde 2018,
+    <br>Al seguir invirtiendo, e investigando en las tecnologías blockchain, descubre una oportunidad en el medio lo que lo lleva a juntar a su equipo y fundar Vibing Studios. 
+    <br><br><i>Vibe Giver.</i>`,
   },
   {
     id: 2,
@@ -232,38 +212,20 @@ export const speakers = [
   },
   {
     id: 3,
-    name: "Enrique Berrueta",
+    name: "Jorge Villalobos",
     image: speaker2,
     title: "WEB3, la evolución del internet",
-    titles: ["FOUNDER AND CEO AT MICROBIT", "Socio co-fundador of wemerang"],
-    bio: `Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed
-    diam nonummy nibh euismod tincidunt ut laoreet dolore magna
-    aliquam erat volutpat. Ut wisi enim ad minim veniam, quis
-    nostrud exerci tation ullamcorper suscipit lobortis nisl ut
-    aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor
-    in hendrerit in vulputate velit esse molestie consequat, vel
-    illum dolore eu feugiat nulla facilisis at vero eros et accumsan
-    et iusto odio dignissim qui blandit praesent luptatum zzril
-    delenit augue duis dolore te feugait nulla facilisi. <br />
-    Lorem ipsum dolor sit amet, cons ectetuer adipiscing elit, sed
-    diam nonummy nibh euismod tincidunt ut laoreet dolore magna
-    aliquam erat volutpat. <br /> <br />
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed
-    diam nonummy nibh euismod tincidunt ut laoreet dolore magna
-    aliquam erat volutpat. Ut wisi enim ad minim veniam, quis
-    nostrud exerci tation ullamcorper suscipit lobortis nisl ut
-    aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor
-    in hendrerit in vulputate velit esse molestie consequat, vel
-    illum dolore eu feugiat nulla facilisis at vero eros et accumsan
-    et iusto odio dignissim qui blandit praesent luptatum zzril
-    delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum
-    dolor sit amet, cons ectetuer adipiscing elit, sed diam nonummy
-    nibh euismod tincidunt ut laoreet dolore magna aliquam erat
-    volutpat. <br /> Ut wisi enim ad minim veniam, quis nostrud
-    exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex
-    ea commodo consequat. Lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit, sed diam nonummy nibh euismod tincidunt ut
-    laoreet dolore magna aliquam erat`,
+    titles: ["CIO at Vibing Studios", ""],
+    bio: `Ing. en Inteligencia Artificial con especialidad en calidad de software.<br>
+
+    Experiencia en proyectos de tecnología blockchain desde 2018<br>
+    
+    <br>Se desempeñó como desarrollador en Kyndinos, empresa de desarrollo blockchain donde se crearon criptomonedas, aplicaciones, y servicios web3, 
+    así como proyectos junto a Mastercard el cual buscaba acercar las criptomonedas al uso diario, pagando como una tarjeta bancaria común.
+    
+    <br><br>Al interesarse en la tecnología NFT, comenzó a desarrollarse en esta área lo cual llevó junto a Ricardo Bustos, Jorge Galvan y el resto del equipo
+     a la fundación de Vibing Studios a finales de 2021.
+    `,
   },
   {
     id: 4,
@@ -308,26 +270,7 @@ export const speakers = [
     in hendrerit in vulputate velit esse molestie consequat, vel
     illum dolore eu feugiat nulla facilisis at vero eros et accumsan
     et iusto odio dignissim qui blandit praesent luptatum zzril
-    delenit augue duis dolore te feugait nulla facilisi. <br />
-    Lorem ipsum dolor sit amet, cons ectetuer adipiscing elit, sed
-    diam nonummy nibh euismod tincidunt ut laoreet dolore magna
-    aliquam erat volutpat. <br /> <br />
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed
-    diam nonummy nibh euismod tincidunt ut laoreet dolore magna
-    aliquam erat volutpat. Ut wisi enim ad minim veniam, quis
-    nostrud exerci tation ullamcorper suscipit lobortis nisl ut
-    aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor
-    in hendrerit in vulputate velit esse molestie consequat, vel
-    illum dolore eu feugiat nulla facilisis at vero eros et accumsan
-    et iusto odio dignissim qui blandit praesent luptatum zzril
-    delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum
-    dolor sit amet, cons ectetuer adipiscing elit, sed diam nonummy
-    nibh euismod tincidunt ut laoreet dolore magna aliquam erat
-    volutpat. <br /> Ut wisi enim ad minim veniam, quis nostrud
-    exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex
-    ea commodo consequat. Lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit, sed diam nonummy nibh euismod tincidunt ut
-    laoreet dolore magna aliquam erat`,
+    delenit augue duis dolore te feugait nulla facilisi. <br />`,
   },
   {
     id: 7,
@@ -335,10 +278,12 @@ export const speakers = [
     image: speaker7,
     title: "Gaming en web3",
     titles: ["CCO at Vibing Studios.", "GAMING EN WEB3"],
-    bio: `Ing. En Mecatronica egresado del Tec de Monterrey. He trabajado en el desarrollo de videojuegos desde el 2017 en sus diferentes areas, 2D, 3D y realidad virtual. 
-    Gurú tecnológico en ingeniería y arquitectura de juegos. <br>Defensor de la diversión, ante todo. 
-    <br>Con más de 5 años de experiencia en desarrollo y gestión de videojuegos. 
-    <br>Promotor de Play and earn e inversionista en Web3 y actual cofundador de vibing studios.
+    bio: `Ing. En Mecatronica egresado del Tec de Monterrey. 
+    <br>Ha trabajado en el desarrollo de videojuegos desde 2017 en sus diferentes areas, 2D, 3D y realidad virtual. 
+    <br>Gurú tecnológico en ingeniería y arquitectura de juegos. 
+    <br>Defensor de <i>"La diversión, ante todo"</i>. 
+    <br>Con más de 5 años de experiencia en desarrollo y gestión de videojuegos, desde la experiencia a nivel usuario, como manejo a nivel empresarial. 
+    <br>Promotor de <i>Play and earn</i> e inversionista en Web3 y actual cofundador de Vibing Studios.
     `,
   },
   {
@@ -355,25 +300,6 @@ export const speakers = [
     in hendrerit in vulputate velit esse molestie consequat, vel
     illum dolore eu feugiat nulla facilisis at vero eros et accumsan
     et iusto odio dignissim qui blandit praesent luptatum zzril
-    delenit augue duis dolore te feugait nulla facilisi. <br />
-    Lorem ipsum dolor sit amet, cons ectetuer adipiscing elit, sed
-    diam nonummy nibh euismod tincidunt ut laoreet dolore magna
-    aliquam erat volutpat. <br /> <br />
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed
-    diam nonummy nibh euismod tincidunt ut laoreet dolore magna
-    aliquam erat volutpat. Ut wisi enim ad minim veniam, quis
-    nostrud exerci tation ullamcorper suscipit lobortis nisl ut
-    aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor
-    in hendrerit in vulputate velit esse molestie consequat, vel
-    illum dolore eu feugiat nulla facilisis at vero eros et accumsan
-    et iusto odio dignissim qui blandit praesent luptatum zzril
-    delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum
-    dolor sit amet, cons ectetuer adipiscing elit, sed diam nonummy
-    nibh euismod tincidunt ut laoreet dolore magna aliquam erat
-    volutpat. <br /> Ut wisi enim ad minim veniam, quis nostrud
-    exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex
-    ea commodo consequat. Lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit, sed diam nonummy nibh euismod tincidunt ut
-    laoreet dolore magna aliquam erat`,
+    delenit augue duis dolore te feugait nulla facilisi. <br />`,
   },
 ];
