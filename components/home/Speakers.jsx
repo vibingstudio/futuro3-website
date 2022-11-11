@@ -22,7 +22,7 @@ export default function Speakers() {
               () => router.push(`/speakers/${speaker.id}`)
             }
           >
-            <h2 className="lg:text-lg text-base font-semibold pb-4">
+            <h2 className="lg:text-lg text-base font-semibold pb-4" style={{textAlign: "center"}}>
               {speaker.title}
             </h2>
             <div>

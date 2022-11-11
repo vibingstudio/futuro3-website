@@ -7,13 +7,14 @@ import speaker17 from "../assets/images/updateSpeakers/speaker17.png";
 import speaker19 from "../assets/images/updateSpeakers/speaker19.png";
 import speaker2 from "../assets/images/updateSpeakers/speaker2.png";
 import speaker20 from "../assets/images/updateSpeakers/speaker20.png";
-import speaker3 from "../assets/images/updateSpeakers/speaker3.png";
+import speaker40 from "../assets/images/updateSpeakers/speaker40.png";
 import speaker4 from "../assets/images/updateSpeakers/speaker4.png";
 import speaker5 from "../assets/images/updateSpeakers/speaker5.png";
 import speaker6 from "../assets/images/updateSpeakers/speaker6.png";
 import speaker7 from "../assets/images/updateSpeakers/speaker7.png";
 import speaker8 from "../assets/images/updateSpeakers/speaker8.png";
 import speaker9 from "../assets/images/updateSpeakers/speaker9.png";
+
 
 export const updateSpeakers = [
   {
@@ -26,7 +27,7 @@ export const updateSpeakers = [
         image: speaker1,
         title: "CEO at Vibing Studios.",
         time: "9.00 am",
-        event: "INAUGURACIÓN Y PRESENTACION VIBING.",
+        event: "INAUGURACIÓN Y PRESENTACIÓN VIBING.",
         duration: "50min",
       },
       {
@@ -41,7 +42,7 @@ export const updateSpeakers = [
       {
         id: 3,
         name: "Ramiro Fidalgo",
-        image: speaker3,
+        image: speaker40,
         title: "CEO at Apex",
         time: "11.00 am",
         event: "REALIDAD VIRTUAL EN LA F1",
@@ -53,7 +54,7 @@ export const updateSpeakers = [
         image: speaker4,
         title: "CTO at Vibing Studios.",
         time: "12.00 pm",
-        event: "BITCOIN, LA EVOLUCION DEL DINERO",
+        event: "BITCOIN, LA EVOLUCIÓN DEL DINERO",
         duration: "50min",
       },
       {
@@ -81,7 +82,7 @@ export const updateSpeakers = [
         title:
           "Chief of Crytpo Operations <br/> at Soluciones Blockchain México.",
         time: "4.00 pm",
-        event: "COMO LLEVAR TU EMPRESA A LA WEB3",
+        event: "CÓMO LLEVAR TU EMPRESA A LA WEB3",
         duration: "50min",
       },
       {
@@ -115,7 +116,7 @@ export const updateSpeakers = [
         title: "Tec de Monterrey",
         time: "9.00 am",
         event:
-          "EL IMPACTO DE VR A LA EDUCACION Y PROCESOS DE CAPACITACION DE EMPRESAS",
+          "EL IMPACTO DE VR A LA EDUCACIÓN Y PROCESOS DE CAPACITACIÓN DE EMPRESAS",
         duration: "50min",
       },
       {
@@ -124,7 +125,7 @@ export const updateSpeakers = [
         image: speaker11,
         title: "Blockchain developer & Influencer.",
         time: "10.00 am",
-        event: "EL METAVERSO VIENE Y ES SENSCIONAL",
+        event: "EL METAVERSO VIENE Y ES SENSACIONAL",
         duration: "50min",
       },
       {
@@ -204,7 +205,7 @@ export const updateSpeakers = [
         image: speaker19,
         title: "Hacker Garage",
         time: "9.00 am",
-        event: "TRADING LOGARITMICO",
+        event: "TRADING LOGARÍTMICO",
         duration: "50min",
       },
       {
@@ -222,7 +223,7 @@ export const updateSpeakers = [
         image: speaker9,
         title: "Daniel Camacho",
         time: "12.00 pm",
-        event: "PORTAFOLIOS, GESTION DE RIESGO Y EVALUACION DE PROYECTOS",
+        event: "PORTAFOLIOS, GESTIÓN DE RIESGO Y EVALUACIÓN DE PROYECTOS",
         duration: "4hrs",
       },
     ],

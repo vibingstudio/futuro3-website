@@ -33,7 +33,7 @@ export default function Banner() {
           <Image src={blackArrow} alt="blackArrow" className="ml-8" />
         </div>
         <h2 className="text-primary font-primary text-4xl font-medium leading-[1.2] text-end speakerItems">
-          Web3, Metaverso, Blockchain, Crypto, <br />
+          Web3, Metaverse, Blockchain, Crypto, <br />
           Virtual Reality, Artificial Inteligence
         </h2>
       </div>

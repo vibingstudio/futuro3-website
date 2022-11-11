@@ -10,6 +10,10 @@ import speaker4 from "../assets/images/speaker4.png";
 import speaker5 from "../assets/images/speaker5.png";
 import speaker6 from "../assets/images/speaker6.png";
 import speaker7 from "../assets/images/speaker7.png";
+import speaker10 from "../assets/images/speaker10.png";
+import speaker19 from "../assets/images/speaker19.png";
+import speaker20 from "../assets/images/speaker20.png";
+import speaker40 from "../assets/images/speaker40.png";
 import tallerF from "../assets/images/tallerfuturo.png";
 
 export const dummySpeakers = [
@@ -52,9 +56,9 @@ export const dummySpeakers = [
       {
         name: "Luis Correa",
         img: speaker5,
-        title: "Bitcoin, la evolucion del dinero",
+        title: "Bitcoin, la evolución del dinero",
         titles: ["CTO AT VIBING.", "Blockchain Developer."],
-        event: "<b>BITCOIN, LA EVOLUCION DEL DINERO.</b>",
+        event: "<b>BITCOIN, LA EVOLUCIÓN DEL DINERO.</b>",
         time: "3:00 pm",
       },
       {
@@ -68,10 +72,10 @@ export const dummySpeakers = [
       {
         name: "Daniel Camacho",
         img: speaker3,
-        title: "De bitcoin a la web3 y mas allá",
+        title: "De bitcoin a la web3 y más allá",
         titles: [
           "Chief of Crypto Operations.",
-          "at Soluciones Blockchain Mexico",
+          "at Soluciones Blockchain México",
         ],
         event: "<b>COMO LLEVAR TU EMPRESA A LA WEB3.</b>",
         time: "5:00 pm",
@@ -147,7 +151,7 @@ export const dummySpeakers = [
         title: "La industria web3",
         titles: ["Multiple awesome people"],
         event:
-          "<b>PANEL: EL MUNDO DECENTRALIZADO</b><br><i>Ricardo Bustos, Daniel Camacho y Luis Beltrán</i>",
+          "<b>PANEL: EL MUNDO DESCENTRALIZADO</b><br><i>Ricardo Bustos, Daniel Camacho y Luis Beltrán</i>",
         time: "5:00 pm",
       },
       {
@@ -182,10 +186,10 @@ export const speakers = [
     name: "Ricardo Bustos",
     image: boogle,
     title: "Inauguración",
-    titles: ["CEO at Vibing Studios.", ""],
+    titles: ["CEO at Vibing Studios.", "Inauguración"],
     bio: `Ing. En Inteligencia Artificial con especialidad en calidad de software.
     <br>Gurú de criptomonedas, NFTs y tokenomics. 
-    <br>Ha trabajado con diferentes criptomonedas y liderado una empresa de desarrollo enfocada a blockchain, incluyendo proyectos de integracion Web2 en Web3. 
+    <br>Ha trabajado con diferentes criptomonedas y liderado una empresa de desarrollo enfocada a blockchain, incluyendo proyectos de integración Web2 en Web3. 
     <br>Inversionista en web3 desde 2018,
     <br>Al seguir invirtiendo, e investigando en las tecnologías blockchain, descubre una oportunidad en el medio lo que lo lleva a juntar a su equipo y fundar Vibing Studios. 
     <br><br><i>Vibe Giver.</i>`,
@@ -194,8 +198,8 @@ export const speakers = [
     id: 2,
     name: "Daniel Camacho",
     image: speaker3,
-    title: "De bitcoin a la web3 y mas allá",
-    titles: ["CEO at Monterrey Bitcoin Embassy"],
+    title: "Como llevar tu empresa a la Web3",
+    titles: ["CEO at Monterrey Bitcoin Embassy", "Como llevar tu empresa a la Web3"],
     bio: `Mtro. Daniel Camacho es profesor investigador, empresario, emprendedor, escritor, conferencista, docente científico, criptoentusiasta, cypherpunk, anarco-economista, tokenomista profesional y contador público. 
     <br><br>
     Cuenta los MBA Majors in Finance y Global Management; y una Maestría en Ciencias de la Educación. Tiene más de 12 años de experiencia en auditoría, economía, contabilidad y finanzas; especializado en Industria 4.0, Tecnología Blockchain, Criptodivisas y Tokenomía.
@@ -209,38 +213,46 @@ export const speakers = [
     <br>Behavioral Economics: La Neuroeconomía del ahorro y DAO’s Governance: Aplicación de DAO’s en estructuras corporativas.`,
   },
   {
-    id: 3,
-    name: "Jorge Villalobos",
-    image: speaker2,
-    title: "WEB3, la evolución del internet",
-    titles: ["CIO at Vibing Studios", ""],
-    bio: `Ing. en Inteligencia Artificial con especialidad en calidad de software.<br>	
-    Experiencia en proyectos de tecnología blockchain desde 2018<br>	
-    	
-    <br>Se desempeñó como desarrollador en Kyndinos, empresa de desarrollo blockchain donde se crearon criptomonedas, aplicaciones, y servicios web3, 	
-    así como proyectos junto a Mastercard el cual buscaba acercar las criptomonedas al uso diario, pagando como una tarjeta bancaria común.	
-    	
-    <br><br>Al interesarse en la tecnología NFT, comenzó a desarrollarse en esta área lo cual llevó junto a Ricardo Bustos, Jorge Galvan y el resto del equipo	
-     a la fundación de Vibing Studios a finales de 2021.	
-    `,
-  },
-  {
     id: 4,
     name: "Cesar Gaytan",
     image: speaker4,
     title: "De Bitcoin a la Web3 y mas allá",
-    titles: ["Founder at Hackwise", ""],
+    titles: ["Founder at Hackwise", "De Bitcoin a la Web3 y mas allá"],
     bio: `Cesar Gaytán es un empresario Mexicano que ha estado involucrado en el mundo cripto desde hace ya 10 años. 
-    <br>Es conocido por ser uno de los primeros mineros de criptomonedas en Mexico 
+    <br>Es conocido por ser uno de los primeros mineros de criptomonedas en México 
     (<a href='https://youtu.be/UaglRHkBObM' target='_blank'><i style="color:blue">Minando hace casi 10 años</i></a>), por sus constantes aportaciones en el mundo cripto.
     Es creador de las comunidades: Bitcoin méxico y Blockchain Latam.<br>Entusiasta de blockchain, la ciberseguridad y la Web 3.0.`,
+  },
+  {
+    id: 40,
+    name: "Ramiro Fidalgo",
+    image: speaker40,
+    title: "Realidad virtual en la F1",
+    titles: ["CEO at APEX", "Realidad virtual en la F1"],
+    bio: `Ramiro's bio.`,
+  },
+  {
+    id: 6,
+    name: "Luis Enrique Correa",
+    image: speaker5,
+    title: "Bitcoin, la evolución del dinero",
+    titles: ["CTO at Vibing Studios.", "Bitcoin, la evolución del dinero"],
+    bio: `Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed
+    diam nonummy nibh euismod tincidunt ut laoreet dolore magna
+    aliquam erat volutpat. Ut wisi enim ad minim veniam, quis
+    nostrud exerci tation ullamcorper suscipit lobortis nisl ut
+    aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor
+    in hendrerit in vulputate velit esse molestie consequat, vel
+    illum dolore eu feugiat nulla facilisis at vero eros et accumsan
+    et iusto odio dignissim qui blandit praesent luptatum zzril
+    delenit augue duis dolore te feugait nulla facilisi. <br />`,
   },
   {
     id: 5,
     name: "Luis Daniel Beltran",
     image: speaker1,
     title: "Blockchain, ¿sí cambió al mundo?",
-    titles: ["Co-CEO at Wemerang", ""],
+    titles: ["Co-CEO at Wemerang", "Blockchain, ¿sí cambió al mundo?"],
     bio: `Desde que cumplió 7 años, de manera autodidacta, aprendió a programar. Siendo pionero en el tema de Blockchain creó 
     <a href='https://pesodigital.org' target='_blank'><i style="color:blue">pesodigital.org</i></a>
     una iniciativa liderada por ciudadanos para crear una versión completamente digital del peso mexicano. 
@@ -252,22 +264,6 @@ export const speakers = [
     y administrar infraestructura de seguridad para aplicaciones y sitios web de alto tráfico.
     <br><br>Es presidente del Nodo Zacatecas de la Red Global MX de Talentos en el Extranjero y miembro fundador del primer espacio de co-working en Zacatecas, Hacker Garage. 
     <br><br>Actualmente se construye una cripto economía para el planeta, las personas y los animales donde cualquiera puede invertir y ganar dinero movilizando a otros para completar desafíos sociales y ambientales.`,
-  },
-  {
-    id: 6,
-    name: "Luis Enrique Correa",
-    image: speaker5,
-    title: "Bitcoin, la evolucion del dinero",
-    titles: ["CTO at Vibing Studios.", ""],
-    bio: `Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed
-    diam nonummy nibh euismod tincidunt ut laoreet dolore magna
-    aliquam erat volutpat. Ut wisi enim ad minim veniam, quis
-    nostrud exerci tation ullamcorper suscipit lobortis nisl ut
-    aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor
-    in hendrerit in vulputate velit esse molestie consequat, vel
-    illum dolore eu feugiat nulla facilisis at vero eros et accumsan
-    et iusto odio dignissim qui blandit praesent luptatum zzril
-    delenit augue duis dolore te feugait nulla facilisi. <br />`,
   },
   {
     id: 7,
@@ -284,11 +280,27 @@ export const speakers = [
     `,
   },
   {
-    id: 8,
-    name: "Abimelek Casterezana",
-    image: speaker6,
-    title: "El metaverso viene y es sensacional",
-    titles: ["CTO AT VIBING.", "Blockchain Developer."],
+    id: 3,
+    name: "Jorge Villalobos",
+    image: speaker2,
+    title: "WEB3, la evolución del internet",
+    titles: ["CIO at Vibing Studios", "WEB3, la evolución del internet"],
+    bio: `Ing. en Inteligencia Artificial con especialidad en calidad de software.<br>	
+    Experiencia en proyectos de tecnología blockchain desde 2018<br>	
+    	
+    <br>Se desempeñó como desarrollador en Kyndinos, empresa de desarrollo blockchain donde se crearon criptomonedas, aplicaciones, y servicios web3, 	
+    así como proyectos junto a Mastercard el cual buscaba acercar las criptomonedas al uso diario, pagando como una tarjeta bancaria común.	
+    	
+    <br><br>Al interesarse en la tecnología NFT, comenzó a desarrollarse en esta área lo cual llevó junto a Ricardo Bustos, Jorge Galvan y el resto del equipo	
+     a la fundación de Vibing Studios a finales de 2021.	
+    `,
+  },
+  {
+    id: 10,
+    name: "Irving Hidrogo",
+    image: speaker10,
+    title: "El impacto de VR a la educación y capacitación empresarial.",
+    titles: ["Tec de Monterrey.", "El impacto de VR a la educación y capacitación empresarial."],
     bio: `Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed
     diam nonummy nibh euismod tincidunt ut laoreet dolore magna
     aliquam erat volutpat. Ut wisi enim ad minim veniam, quis
@@ -299,4 +311,53 @@ export const speakers = [
     et iusto odio dignissim qui blandit praesent luptatum zzril
     delenit augue duis dolore te feugait nulla facilisi. <br />`,
   },
+  {
+    id: 8,
+    name: "Abimelek Casterezana",
+    image: speaker6,
+    title: "El metaverso viene y es sensacional",
+    titles: ["CTO AT VIBING.", "El metaverso viene y es sensacional."],
+    bio: `Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed
+    diam nonummy nibh euismod tincidunt ut laoreet dolore magna
+    aliquam erat volutpat. Ut wisi enim ad minim veniam, quis
+    nostrud exerci tation ullamcorper suscipit lobortis nisl ut
+    aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor
+    in hendrerit in vulputate velit esse molestie consequat, vel
+    illum dolore eu feugiat nulla facilisis at vero eros et accumsan
+    et iusto odio dignissim qui blandit praesent luptatum zzril
+    delenit augue duis dolore te feugait nulla facilisi. <br />`,
+  },
+  {
+    id: 20,
+    name: "Adrian Lujan",
+    image: speaker20,
+    title: "La revolución de DeFi",
+    titles: ["CEO at Trubit.", "La revolución de DeFi."],
+    bio: `Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed
+    diam nonummy nibh euismod tincidunt ut laoreet dolore magna
+    aliquam erat volutpat. Ut wisi enim ad minim veniam, quis
+    nostrud exerci tation ullamcorper suscipit lobortis nisl ut
+    aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor
+    in hendrerit in vulputate velit esse molestie consequat, vel
+    illum dolore eu feugiat nulla facilisis at vero eros et accumsan
+    et iusto odio dignissim qui blandit praesent luptatum zzril
+    delenit augue duis dolore te feugait nulla facilisi. <br />`,
+  },
+  {
+    id: 19,
+    name: "Daniel Salazar & Hector Barrón",
+    image: speaker19,
+    title: "Trading logarítmico",
+    titles: ["Hacker Garage.", "Trading logarítmico."],
+    bio: `Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed
+    diam nonummy nibh euismod tincidunt ut laoreet dolore magna
+    aliquam erat volutpat. Ut wisi enim ad minim veniam, quis
+    nostrud exerci tation ullamcorper suscipit lobortis nisl ut
+    aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor
+    in hendrerit in vulputate velit esse molestie consequat, vel
+    illum dolore eu feugiat nulla facilisis at vero eros et accumsan
+    et iusto odio dignissim qui blandit praesent luptatum zzril
+    delenit augue duis dolore te feugait nulla facilisi. <br />`,
+  },
+
 ];
