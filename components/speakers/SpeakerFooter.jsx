@@ -5,7 +5,6 @@ import blockchainLogo from "../../assets/images/blockchain.png";
 import btcLogo from "../../assets/images/btcLogo.png";
 import circuloLogo from "../../assets/images/circulo1.png";
 import hackerLogo from "../../assets/images/hackerLogo.png";
-import kindynos from "../../assets/images/kindynos.png";
 import emprenLogo from "../../assets/images/tecMtyEmp.png";
 import trubitLogo from "../../assets/images/trubit.png";
 import vibingLogo from "../../assets/images/vibingLogo.png";
@@ -18,7 +17,6 @@ const logos = [
   trubitLogo,
   blockchainLogo,
   hackerLogo,
-  kindynos,
 ];
 
 const SpeakerFooter = () => {

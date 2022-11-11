@@ -1,8 +1,7 @@
-import React from "react";
-import { useState } from "react";
-import Link from "next/link";
 import Image from "next/image";
+import Link from "next/link";
 import { useRouter } from "next/router";
+import React, { useState } from "react";
 import { RiMenu3Fill } from "react-icons/ri";
 
 import MobileNav from "./MobileNav";
@@ -14,7 +13,7 @@ const Header = () => {
   const items = [
     {
       name: "Acerca de",
-      link: '/',
+      link: "/",
     },
     {
       name: "Agenda",
@@ -48,18 +47,23 @@ const Header = () => {
       <div className="w-[93%] xs:w-[97%] m-auto flex justify-between items-center h-24 navBreakpoint:py-0">
         <div className="flex items-center gap-6 xs:gap-2">
           <Link href={"/"}>
-            <span className="sm:w-[18rem] w-[12rem] cursor-pointer block">
+            <span className="customLogo md:w-[18rem] sm:w-[16rem] w-[12rem] cursor-pointer block">
               <Image src={logo} alt="logo" />
             </span>
           </Link>
         </div>
         <div className="items-center flex">
-          <nav className="no-underline hidden navBreakpoint:flex pb-[-1rem]">
+          {/* hidden navBreakpoint: */}
+          <nav className="no-underline flex pb-[-1rem]">
             {items.map((item, index) => (
-              <LinkComponent key={index} item={item} />
+              <LinkComponent key={index} item={item} index={index} />
             ))}
           </nav>
-          <RiMenu3Fill className="navBreakpoint:hidden text-4xl text-white cursor-pointer" onClick={() => setSidebarOpen(true)} />
+          {/* navBreakpoint: */}
+          <RiMenu3Fill
+            className="hidden text-4xl text-white cursor-pointer"
+            onClick={() => setSidebarOpen(true)}
+          />
         </div>
       </div>
       <MobileNav
@@ -73,13 +77,16 @@ const Header = () => {
 
 export default Header;
 
-const LinkComponent = ({ item }) => {
+const LinkComponent = ({ item, index }) => {
   const [active, setActive] = useState(false);
   const [subMenuActive, setSubMenuActive] = useState(false);
   const location = useRouter();
 
   return (
-    <Link href={item.link || ""}>
+    <Link
+      href={item.link || ""}
+      className={`${index === 0 ? "hidden sm:flex" : ""}`}
+    >
       <span
         onMouseEnter={() => {
           item.haveSubmenu && setActive(true);
@@ -90,7 +97,7 @@ const LinkComponent = ({ item }) => {
         className={`cursor-pointer items-center mx-2 relative block`}
       >
         <span
-          className={`font-medium mx-3 text-base duration-500 rounded-md text-white hover:text-white relative ${
+          className={`customMenuSize font-medium mx-3 text-base duration-500 rounded-md text-white hover:text-white relative ${
             location.pathname === item.link || active
               ? "navitemActive"
               : "navitem"

@@ -4,7 +4,6 @@ import React from "react";
 import btcLogo from "../../assets/images/btcLogo.png";
 import circulo from "../../assets/images/circulo1.png";
 import hackerLogo from "../../assets/images/hackerLogo.png";
-import kindynos from "../../assets/images/kindynos.png";
 import solbc from "../../assets/images/solucionesBC.png";
 import techMonterreyLogo from "../../assets/images/tecMtyEmp.png";
 import vibingLogo from "../../assets/images/vibingLogo.png";
@@ -16,7 +15,6 @@ const logos = [
   btcLogo,
   solbc,
   hackerLogo,
-  kindynos,
 ];
 
 export default function Footer() {
