@@ -1,8 +1,8 @@
-
 import Head from "next/head";
 import React from "react";
 import { Banner } from "../../components";
-import ScheduleTable from "../../components/speakers/ScheduleTable";
+import UpdateScheduleTable from "../../components/speakers/UpdateScheduleTable";
+// import ScheduleTable from "../../components/speakers/ScheduleTable";
 
 export default function Speakers() {
   return (
@@ -12,7 +12,8 @@ export default function Speakers() {
         <meta name="description" content="futuro3" />
       </Head>
       <Banner />
-      <ScheduleTable />
+      {/* <ScheduleTable /> */}
+      <UpdateScheduleTable />
     </main>
   );
 }
