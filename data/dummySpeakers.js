@@ -214,34 +214,15 @@ export const speakers = [
     image: speaker2,
     title: "WEB3, la evolución del internet",
     titles: ["CIO at Vibing Studios", ""],
-    bio: `aaa ipsum dolor sit amet, consectetuer adipiscing elit, sed
-    diam nonummy nibh euismod tincidunt ut laoreet dolore magna
-    aliquam erat volutpat. Ut wisi enim ad minim veniam, quis
-    nostrud exerci tation ullamcorper suscipit lobortis nisl ut
-    aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor
-    in hendrerit in vulputate velit esse molestie consequat, vel
-    illum dolore eu feugiat nulla facilisis at vero eros et accumsan
-    et iusto odio dignissim qui blandit praesent luptatum zzril
-    delenit augue duis dolore te feugait nulla facilisi. <br />
-    Lorem ipsum dolor sit amet, cons ectetuer adipiscing elit, sed
-    diam nonummy nibh euismod tincidunt ut laoreet dolore magna
-    aliquam erat volutpat. <br /> <br />
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed
-    diam nonummy nibh euismod tincidunt ut laoreet dolore magna
-    aliquam erat volutpat. Ut wisi enim ad minim veniam, quis
-    nostrud exerci tation ullamcorper suscipit lobortis nisl ut
-    aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor
-    in hendrerit in vulputate velit esse molestie consequat, vel
-    illum dolore eu feugiat nulla facilisis at vero eros et accumsan
-    et iusto odio dignissim qui blandit praesent luptatum zzril
-    delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum
-    dolor sit amet, cons ectetuer adipiscing elit, sed diam nonummy
-    nibh euismod tincidunt ut laoreet dolore magna aliquam erat
-    volutpat. <br /> Ut wisi enim ad minim veniam, quis nostrud
-    exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex
-    ea commodo consequat. Lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit, sed diam nonummy nibh euismod tincidunt ut
-    laoreet dolore magna aliquam erat`,
+    bio: `Ing. en Inteligencia Artificial con especialidad en calidad de software.<br>	
+    Experiencia en proyectos de tecnología blockchain desde 2018<br>	
+    	
+    <br>Se desempeñó como desarrollador en Kyndinos, empresa de desarrollo blockchain donde se crearon criptomonedas, aplicaciones, y servicios web3, 	
+    así como proyectos junto a Mastercard el cual buscaba acercar las criptomonedas al uso diario, pagando como una tarjeta bancaria común.	
+    	
+    <br><br>Al interesarse en la tecnología NFT, comenzó a desarrollarse en esta área lo cual llevó junto a Ricardo Bustos, Jorge Galvan y el resto del equipo	
+     a la fundación de Vibing Studios a finales de 2021.	
+    `,
   },
   {
     id: 4,
