@@ -205,7 +205,7 @@ export const updateSpeakers = [
         image: speaker19,
         title: "Hacker Garage",
         time: "9.00 am",
-        event: "TRADING LOGARÍTMICO",
+        event: "TRADING ALGORÍTMICO",
         duration: "50min",
       },
       {

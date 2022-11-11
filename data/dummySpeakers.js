@@ -347,17 +347,16 @@ export const speakers = [
     id: 19,
     name: "Daniel Salazar & Hector Barrón",
     image: speaker19,
-    title: "Trading logarítmico",
-    titles: ["Hacker Garage.", "Trading logarítmico."],
-    bio: `Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed
-    diam nonummy nibh euismod tincidunt ut laoreet dolore magna
-    aliquam erat volutpat. Ut wisi enim ad minim veniam, quis
-    nostrud exerci tation ullamcorper suscipit lobortis nisl ut
-    aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor
-    in hendrerit in vulputate velit esse molestie consequat, vel
-    illum dolore eu feugiat nulla facilisis at vero eros et accumsan
-    et iusto odio dignissim qui blandit praesent luptatum zzril
-    delenit augue duis dolore te feugait nulla facilisi. <br />`,
+    title: "Trading algorítmico",
+    titles: ["Hacker Garage.", "Trading algorítmico."],
+    bio: `Trader Algorítmico y emprendedor social, apasionado por la tecnología, facilitador de
+    programas de emprendimiento e innovación. He colaborado como consultor para
+    emprendedores, micro y pequeñas empresas con organizaciones de referencia nacional en el
+    ecosistema emprendedor como lo son: ilab incubadora de empresas de alto impacto, centros
+    de inclusión digital, ESMEX, entre otras. Actualmente como parte del equipo de Hacker
+    Traders, trabajo en el desarrollo y automatización de estrategias de inversión para los
+    mercados bursátiles.
+    `,
   },
 
 ];
