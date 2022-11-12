@@ -61,7 +61,7 @@ export default function Home() {
           </span>
           <p className="text-white text-sm bannerDate flex flex-col">
             <span>SAN LUIS POTOSÍ, SLP</span>
-            <span>2 - 3 DICIEMBRE</span>
+            <span>1 - 3 DICIEMBRE</span>
           </p>
           <p className="text-white text-sm bannerDate flex flex-col">
             <span>Parque de Emprendimiento del</span>
