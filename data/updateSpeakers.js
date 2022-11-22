@@ -120,12 +120,12 @@ export const updateSpeakers = [
         duration: "50min",
       },
       {
-        id: 11,
-        name: "Abimelek Castrezana",
-        image: speaker11,
-        title: "Blockchain developer & Influencer.",
-        time: "10.00 am",
-        event: "EL METAVERSO VIENE Y ES SENSACIONAL",
+        id: 19,
+        name: "Daniel Salazar & Hector Barrón",
+        image: speaker19,
+        title: "Hacker Garage",
+        time: "9.00 am",
+        event: "TRADING ALGORÍTMICO",
         duration: "50min",
       },
       {
@@ -200,12 +200,12 @@ export const updateSpeakers = [
     date: "3 Dic 2022",
     speakers: [
       {
-        id: 19,
-        name: "Daniel Salazar & Hector Barrón",
-        image: speaker19,
-        title: "Hacker Garage",
-        time: "9.00 am",
-        event: "TRADING ALGORÍTMICO",
+        id: 11,
+        name: "Abimelek Castrezana",
+        image: speaker11,
+        title: "Blockchain developer & Influencer.",
+        time: "10.00 am",
+        event: "EL METAVERSO VIENE Y ES SENSACIONAL",
         duration: "50min",
       },
       {

@@ -248,15 +248,11 @@ export const speakers = [
     image: speaker5,
     title: "Bitcoin, la evolución del dinero",
     titles: ["CTO at Vibing Studios.", "Bitcoin, la evolución del dinero"],
-    bio: `Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed
-    diam nonummy nibh euismod tincidunt ut laoreet dolore magna
-    aliquam erat volutpat. Ut wisi enim ad minim veniam, quis
-    nostrud exerci tation ullamcorper suscipit lobortis nisl ut
-    aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor
-    in hendrerit in vulputate velit esse molestie consequat, vel
-    illum dolore eu feugiat nulla facilisis at vero eros et accumsan
-    et iusto odio dignissim qui blandit praesent luptatum zzril
-    delenit augue duis dolore te feugait nulla facilisi. <br />`,
+    bio: `Obtained a degree as an A.I. Engineer from Universidad Panamericana, 
+    has worked with web, cryptography, blockchain and web3 technologies since 2018. 
+    <br>Passionate about creating great technology that drives crypto adoption through exceptional UX. 
+    <br>With more than 4 years managing blockchain development teams, and shipping several crypto tools. 
+    Currently vibing as Chief Technology Officer.`,
   },
   {
     id: 5,
@@ -313,15 +309,7 @@ export const speakers = [
     image: speaker10,
     title: "El impacto de VR a la educación y capacitación empresarial.",
     titles: ["Tec de Monterrey.", "El impacto de VR a la educación y capacitación empresarial."],
-    bio: `Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed
-    diam nonummy nibh euismod tincidunt ut laoreet dolore magna
-    aliquam erat volutpat. Ut wisi enim ad minim veniam, quis
-    nostrud exerci tation ullamcorper suscipit lobortis nisl ut
-    aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor
-    in hendrerit in vulputate velit esse molestie consequat, vel
-    illum dolore eu feugiat nulla facilisis at vero eros et accumsan
-    et iusto odio dignissim qui blandit praesent luptatum zzril
-    delenit augue duis dolore te feugait nulla facilisi. <br />`,
+    bio: `Docente del Tec de Monterrey, nos hablara acerca del impacto que ha tenido la realidad virtual en el campo de la educación y el ecosistema empresarial. <br />`,
   },
   {
     id: 8,
