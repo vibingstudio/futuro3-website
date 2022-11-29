@@ -40,7 +40,7 @@ export default function Home() {
             <p className="text-[#AFAFCA] text-lg w-[80%] bannerDesSec">
               Vive y aprende de las nuevas tendencias en tecnología Web3,
               Metaverso, Blockchain y Realidad Virtual. Sé parte de la nueva
-              revolcuión del internet.
+              revolución del internet.
             </p>
           </div>
         </div>
