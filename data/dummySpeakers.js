@@ -132,9 +132,9 @@ export const dummySpeakers = [
       {
         name: "Jorge Villalobos",
         img: speaker2,
-        title: "WEB3, la evolución del internet",
+        title: "WEB3, el futuro del internet",
         titles: ["CIO at Vibing Studios."],
-        event: "<b>WEB3, LA EVOLUCIÓN DEL INTERNET</b>",
+        event: "<b>WEB3, el futuro DEL INTERNET</b>",
         time: "3:00 pm",
       },
       {
@@ -290,8 +290,8 @@ export const speakers = [
     id: 3,
     name: "Jorge Villalobos",
     image: speaker2,
-    title: "WEB3, la evolución del internet",
-    titles: ["CIO at Vibing Studios", "WEB3, la evolución del internet"],
+    title: "WEB3, el futuro del internet",
+    titles: ["CIO at Vibing Studios", "WEB3, el futuro del internet"],
     bio: `Ing. en Inteligencia Artificial con especialidad en calidad de software.<br>	
     
     Cuenta con experiencia en proyectos de tecnología blockchain desde 2018<br>	

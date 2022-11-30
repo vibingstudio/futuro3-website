@@ -162,7 +162,7 @@ export const updateSpeakers = [
         image: speaker15,
         title: "CIO at Vibing Studios",
         time: "3.00 pm",
-        event: "WEB3, LA EVOLUCIÓN DEL INTERNET",
+        event: "WEB3, EL FUTURO DEL INTERNET",
         duration: "50min",
       },
       {

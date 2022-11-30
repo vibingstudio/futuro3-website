@@ -53,7 +53,7 @@ export default function FuturoQuestions() {
       </section>
       <div className="p-4 max-w-6xl m-auto mb-[5rem] font-medium font-primary">
       <p className="mb-7">
-      Futuro3 es el espacio donde podrás entender el nuevo mundo del internet 3.0.
+      Futuro3 es el espacio donde podrás entender el nuevo mundo del internet 3.0 y la web3
           </p>
           <p>
           Tanto el ecosistema blockchain de LATAM, estudiantes universitarios y público general interesado en blockchain podrán interactuar en todas las actividades y realizar networking con asistentes de todo México.
