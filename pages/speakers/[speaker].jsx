@@ -87,7 +87,11 @@ export default function Speaker() {
                   <Image src={threeArrow} alt="threeArrow" />
                 </div>
                 <div className="w-full h-full bg-[#181823] absolute top-0 left-0 z-[-5]"></div>
-                <div className="relative flex flex-col items-center border-[5px] border-[#3A66F9] font-primary text-white singleSpeakerCard">
+                <div
+                  className={`relative flex flex-col items-center border-[5px] border-[#3A66F9] font-primary text-white singleSpeakerCard ${
+                    activeSpeaker?.imgTransparent ? "bg-white" : ""
+                  }`}
+                >
                   <Image
                     src={spImage}
                     width={420}
