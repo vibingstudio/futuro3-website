@@ -14,7 +14,7 @@ import speaker6 from "../assets/images/updateSpeakers/speaker6.png";
 import speaker7 from "../assets/images/updateSpeakers/speaker7.png";
 import speaker8 from "../assets/images/updateSpeakers/speaker8.png";
 import speaker9 from "../assets/images/updateSpeakers/speaker9.png";
-
+import speaker41 from "../assets/images/updateSpeakers/speaker41.png";
 
 export const updateSpeakers = [
   {
@@ -167,6 +167,15 @@ export const updateSpeakers = [
       },
       {
         id: 16,
+        name: "Daniel Salazar & Hector Barrón",
+        image: speaker19,
+        title: "Hacker Garage",
+        time: "9.00 am",
+        event: "TRADING ALGORÍTMICO",
+        duration: "50min",
+      },
+      {
+        id: 17,
         name: "Ricardo Bustos",
         image: speaker1,
         title: "CEO at Vibing Studios.",
@@ -175,7 +184,7 @@ export const updateSpeakers = [
         duration: "50min",
       },
       {
-        id: 17,
+        id: 18,
         name: "Future3 Panel",
         image: speaker17,
         title: "Futuro3",
@@ -185,7 +194,7 @@ export const updateSpeakers = [
         duration: "50min",
       },
       {
-        id: 18,
+        id: 19,
         name: "Masterclass 2",
         image: speaker9,
         title: "Daniel Camacho",
@@ -200,16 +209,16 @@ export const updateSpeakers = [
     date: "3 Dic 2022",
     speakers: [
       {
-        id: 19,
-        name: "Daniel Salazar & Hector Barrón",
-        image: speaker19,
-        title: "Hacker Garage",
+        id: 20,
+        name: "Juan José Tinajero",
+        image: speaker41,
+        title: "Co-founder: Ethquila Secret Society.",
         time: "9.00 am",
-        event: "TRADING ALGORÍTMICO",
+        event: "ETHQUILA, EL ELIXIR DE WEB3",
         duration: "50min",
       },
       {
-        id: 20,
+        id: 21,
         name: "Adrián Díaz Luján",
         image: speaker20,
         title: "CEO at Trubit",
@@ -218,7 +227,7 @@ export const updateSpeakers = [
         duration: "50min",
       },
       {
-        id: 21,
+        id: 22,
         name: "Masterclass Finanzas",
         image: speaker9,
         title: "Daniel Camacho",

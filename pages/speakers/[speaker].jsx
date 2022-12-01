@@ -3,26 +3,24 @@ import { useRouter } from "next/router";
 import React, { useEffect } from "react";
 
 import Head from "next/head";
-// import speaker3 from "../../assets/images/speaker3B.png";
 import threeArrow from "../../assets/images/threeArrow.png";
 import { speakers } from "../../data/dummySpeakers";
 
 export default function Speaker() {
   const router = useRouter();
   const [activeSpeaker, setActiveSpeaker] = React.useState({});
-  const [singleImage, setSingleImage] = React.useState('');
+  const [singleImage, setSingleImage] = React.useState("");
   const { speaker } = router.query;
 
   useEffect(() => {
     if (speaker) {
       const speakerData = speakers.find((s) => s.id === Number(speaker));
       setActiveSpeaker(speakerData);
-      setSingleImage(speakerData?.image?.src.split('/')[4].split('.')[0])
-      
+      setSingleImage(speakerData?.image?.src.split("/")[4].split(".")[0]);
     }
   }, [speaker]);
-  console.log(singleImage)
- const spImage=`/img/${singleImage}B.png`
+
+  const spImage = `/img/${singleImage}B.png`;
 
   return (
     <>
@@ -90,8 +88,13 @@ export default function Speaker() {
                 </div>
                 <div className="w-full h-full bg-[#181823] absolute top-0 left-0 z-[-5]"></div>
                 <div className="relative flex flex-col items-center border-[5px] border-[#3A66F9] font-primary text-white singleSpeakerCard">
-                  <Image src={spImage} width={420}
-                height={420} alt="speaker" layout="fill"/>
+                  <Image
+                    src={spImage}
+                    width={420}
+                    height={420}
+                    alt="speaker"
+                    layout="fill"
+                  />
                 </div>
                 <div className="text-sm font-medium pt-12 text-center text-white">
                   <h2 className="text-[#3A66F9] text-3xl font-semibold pb-3">
