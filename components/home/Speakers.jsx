@@ -18,14 +18,15 @@ export default function Speakers() {
           <div
             key={index}
             className="w-full relative bg-black flex flex-col items-center py-5 px-9 border-[5px] border-[#3A66F9] font-primary text-white speakerCard cursor-pointer"
-            onClick={
-              () => router.push(`/speakers/${speaker.id}`)
-            }
+            onClick={() => router.push(`/speakers/${speaker.id}`)}
           >
-            <h2 className="lg:text-lg text-base font-semibold pb-4" style={{textAlign: "center"}}>
+            <h2
+              className="lg:text-lg text-base font-semibold pb-4"
+              style={{ textAlign: "center" }}
+            >
               {speaker.title}
             </h2>
-            <div>
+            <div className="w-[204px] h-[205px]">
               <Image src={speaker.image} alt="speaker" />
             </div>
             <h2 className="lg:text-lg text-base font-semibold pt-4">
