@@ -379,24 +379,14 @@ export const speakers = [
     image: speaker41,
     title: "Co-founder: Ethquila Secret Society.",
     titles: ["ETHQUILA.", "EL ELIXIR DE WEB3."],
-    bio: `<b>Daniel Salazar Ruiz Esparza</b>:
-    <br>Trader Algorítmico y emprendedor social, apasionado por la tecnología, facilitador de
-    programas de emprendimiento e innovación. 
-    <br>Ha colaborado como consultor para
-    emprendedores, micro y pequeñas empresas con organizaciones de referencia nacional en el
-    ecosistema emprendedor como lo son: 
-    <br>-Ilab incubadora de empresas de alto impacto
-    <br>-Centros de inclusión digital
-    <br>-ESMEX, entre otras. 
-    <br>Actualmente forma parte del equipo de <i>Hacker Traders</i>, trabajo en el desarrollo y automatización de estrategias de inversión para los
-    mercados bursátiles.
-    <br><br><b>Héctor Felipe Barrón Ibarra:</b>
-    <br>Trader profesional con dos años de experiencia, egresado de Gestión de Empresas del ITD
-    (Instituto Tecnológico de Durango);
-    <br>Emprendedor en marketing digital, apasionado por la
-    tecnología, innovación, la economía circular y la sostenibilidad.
-    <br>Actualmente incursiona en el mundo del trading algorítmico desarrollando y automatizando
-    estrategias como miembro de <i>Hacker Traders</i>.
+    bio: `<b>Art + Tech:</b>:
+    <br>-Virtual and Video Production,
+    <br>-Augmented Reality,
+    <br>-NFTs, 
+    <br>-Creative Strategies,
+    <br>-Experiential marketing,
+    <br>-Storytelling,
+    <br>-Content Marketing and Community Management.
     `,
   },
 ];
