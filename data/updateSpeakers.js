@@ -170,17 +170,8 @@ export const updateSpeakers = [
         name: "Daniel Salazar & Hector Barrón",
         image: speaker19,
         title: "Hacker Garage",
-        time: "9.00 am",
+        time: "9.00 am - 4.00 pm",
         event: "TRADING ALGORÍTMICO",
-        duration: "50min",
-      },
-      {
-        id: 17,
-        name: "Ricardo Bustos",
-        image: speaker1,
-        title: "CEO at Vibing Studios.",
-        time: "4.00 pm",
-        event: "LO QUE TIENE QUE TENER UN PROYECTO WEB3 PARA SER EXITOSO",
         duration: "50min",
       },
       {

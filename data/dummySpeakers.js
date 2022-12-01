@@ -14,6 +14,7 @@ import speaker10 from "../assets/images/speaker10.png";
 import speaker19 from "../assets/images/speaker19.png";
 import speaker20 from "../assets/images/speaker20.png";
 import speaker40 from "../assets/images/speaker40.png";
+import speaker41 from "../assets/images/updateSpeakers/speaker41.png";
 import tallerF from "../assets/images/tallerfuturo.png";
 
 export const dummySpeakers = [
@@ -199,7 +200,10 @@ export const speakers = [
     name: "Daniel Camacho",
     image: speaker3,
     title: "Como llevar tu empresa a la Web3",
-    titles: ["CEO at Monterrey Bitcoin Embassy", "Como llevar tu empresa a la Web3"],
+    titles: [
+      "CEO at Monterrey Bitcoin Embassy",
+      "Como llevar tu empresa a la Web3",
+    ],
     bio: `Mtro. Daniel Camacho es profesor investigador, empresario, emprendedor, escritor, conferencista, docente científico, criptoentusiasta, cypherpunk, anarco-economista, tokenomista profesional y contador público. 
     <br><br>
     Cuenta los MBA Majors in Finance y Global Management; y una Maestría en Ciencias de la Educación. Tiene más de 12 años de experiencia en auditoría, economía, contabilidad y finanzas; especializado en Industria 4.0, Tecnología Blockchain, Criptodivisas y Tokenomía.
@@ -308,7 +312,10 @@ export const speakers = [
     name: "Irving Hidrogo",
     image: speaker10,
     title: "El impacto de VR a la educación y capacitación empresarial.",
-    titles: ["Tec de Monterrey.", "El impacto de VR a la educación y capacitación empresarial."],
+    titles: [
+      "Tec de Monterrey.",
+      "El impacto de VR a la educación y capacitación empresarial.",
+    ],
     bio: `Docente del Tec de Monterrey, nos hablara acerca del impacto que ha tenido la realidad virtual en el campo de la educación y el ecosistema empresarial. <br />`,
   },
   {
@@ -316,7 +323,10 @@ export const speakers = [
     name: "Abimelek Casterezana",
     image: speaker6,
     title: "El metaverso viene y es sensacional",
-    titles: ["Blockchain developer & influencer.", "El metaverso viene y es sensacional."],
+    titles: [
+      "Blockchain developer & influencer.",
+      "El metaverso viene y es sensacional.",
+    ],
     bio: `Estudiante de la UG de mecatrónica, amante de los vieojuegos, NFTs, crear contenido y el metaverso. 
     <br>Trabaja como desarrollador de proyectos como colecciones, marketplaces, en <b>Wemerang</b> como ingeniero de producto, 
     instructor en blockdemy y CTO en Esferik Agency. <br />`,
@@ -363,5 +373,30 @@ export const speakers = [
     estrategias como miembro de <i>Hacker Traders</i>.
     `,
   },
-
+  {
+    id: 41,
+    name: "Juan José Tinajero",
+    image: speaker41,
+    title: "Co-founder: Ethquila Secret Society.",
+    titles: ["ETHQUILA.", "EL ELIXIR DE WEB3."],
+    bio: `<b>Daniel Salazar Ruiz Esparza</b>:
+    <br>Trader Algorítmico y emprendedor social, apasionado por la tecnología, facilitador de
+    programas de emprendimiento e innovación. 
+    <br>Ha colaborado como consultor para
+    emprendedores, micro y pequeñas empresas con organizaciones de referencia nacional en el
+    ecosistema emprendedor como lo son: 
+    <br>-Ilab incubadora de empresas de alto impacto
+    <br>-Centros de inclusión digital
+    <br>-ESMEX, entre otras. 
+    <br>Actualmente forma parte del equipo de <i>Hacker Traders</i>, trabajo en el desarrollo y automatización de estrategias de inversión para los
+    mercados bursátiles.
+    <br><br><b>Héctor Felipe Barrón Ibarra:</b>
+    <br>Trader profesional con dos años de experiencia, egresado de Gestión de Empresas del ITD
+    (Instituto Tecnológico de Durango);
+    <br>Emprendedor en marketing digital, apasionado por la
+    tecnología, innovación, la economía circular y la sostenibilidad.
+    <br>Actualmente incursiona en el mundo del trading algorítmico desarrollando y automatizando
+    estrategias como miembro de <i>Hacker Traders</i>.
+    `,
+  },
 ];
