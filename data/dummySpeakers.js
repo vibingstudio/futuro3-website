@@ -379,6 +379,7 @@ export const speakers = [
     image: speaker41,
     title: "Co-founder: Ethquila Secret Society.",
     titles: ["ETHQUILA.", "EL ELIXIR DE WEB3."],
+    imgTransparent: true,
     bio: `<b>Art + Tech:</b>:
     <br>-Virtual and Video Production,
     <br>-Augmented Reality,
